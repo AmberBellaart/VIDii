@@ -33,10 +33,9 @@ Mijn startniveau is: blauw
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - punt 1: ik wil sowiezo leren hoe ik überhaupt werkende en overzichtelijke code maak. Ik heb namelijk nog nooit zelf code hoeven schrijven, dus dit is allemaal erg nieuw. Ik zou dan ook erg blij zijn als alles allemaal werkend en duidelijk is uiteindelijk.
+  - punt 2: ik wil leren hoe ik met diverse elementen, bijv. diverse afbeeldingen en headers, een eindproduct kan maken dat goed in elkaar zit. Nu heb ik bij de twee oefenlesjes nog vooral geoefende met 'weinig' elementen, maar bij deze opdracht zullen er meer dingen samenvallen en zal dat dus meer van mij vragen.
+  - punt 3: ik wil leren hoe ik motivatie uit de overwinningen kan halen bij het coderen, zodat ik die kan gebruiken om met de tegenslagen om te gaan. Ik heb immers nu al in die 2 lesjes gemerkt dat er meer tegenslagen zullen zijn als beginner dan overwinningen (spaties teveel, komma's verkeerd, puntkomma vergeten, etc.). Dit vraagt best wel wat van je motivatie en doorzettingsvermogen. Ik ben wel een doorzetter, maar vind het wel lastig soms om met tegenslagen om te gaan. Dus dit vak helpt me hopelijk ook een beetje op persoonlijk niveau :). 
  
 </details>
 
