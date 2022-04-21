@@ -44,10 +44,11 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 1
 
-<details>
+<details open>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
+  Dinsdag begon ik de dag met dat ik van Mario een interface wilde gaan maken, maar hoe meer ik hiermee aan het schetsen was, des te meer ik het zo standaard vond (veel hadden Mario inmiddels gekozen). Daarom ben ik toen geswitcht naar Mickey Mouse. Woensdag had ik voornamelijk een eerste schets van hoe ik de interface eruit wilde laten zien en een idee van wat ik in de interface wilde verwerken. Het ging hierbij om het idee dat Mickey Mouse je als het ware door zijn huis meeneemt dat volhangt met oude herinneringen aan zijn leven. Dit was nog slechts een schets en concept, dus waren nog niet 100% doordacht. Zo had ik zelf nog niet helemaal nagedacht over eastereggs en dergelijke, aangezien ik eerst met een leuk en passend idee wilde komen dat ik ook daadwerkelijk zou kunnen realiseren in deze korte tijd. Ik vond het daarbij lastig om de haalbaarheid in te schatten. Wat er dus nog niet in orde was, waren eigenlijk veel dingen. Zo wist ik nog niet welke specifieke jaartallen (dus looks) van Mickey ik wilde laten zien, miste er nog wat eastereggs en had ik nog niet nagedacht over welke accesoires ik in de interface wilde verwerken. Ik kreeg ook de tip om goed na te denken over waarom ik alle Mickeys op een bepaalde plek wilde neerzetten.
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
   #### oplossing:
