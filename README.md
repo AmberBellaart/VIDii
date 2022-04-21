@@ -48,13 +48,12 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  Dinsdag begon ik de dag met dat ik van Mario een interface wilde gaan maken, maar hoe meer ik hiermee aan het schetsen was, des te meer ik het zo standaard vond (veel hadden Mario inmiddels gekozen). Daarom ben ik toen geswitcht naar Mickey Mouse. Woensdag had ik voornamelijk een eerste schets van hoe ik de interface eruit wilde laten zien en een idee van wat ik in de interface wilde verwerken. Het ging hierbij om het idee dat Mickey Mouse je als het ware door zijn huis meeneemt dat volhangt met oude herinneringen aan zijn leven. Dit was nog slechts een schets en concept, dus waren nog niet 100% doordacht. Zo had ik zelf nog niet helemaal nagedacht over eastereggs en dergelijke, aangezien ik eerst met een leuk en passend idee wilde komen dat ik ook daadwerkelijk zou kunnen realiseren in deze korte tijd. Ik vond het daarbij lastig om de haalbaarheid in te schatten. Wat er dus nog niet in orde was, waren eigenlijk veel dingen. Zo wist ik nog niet welke specifieke jaartallen (dus looks) van Mickey ik wilde laten zien, miste er nog wat eastereggs en had ik nog niet nagedacht over welke accesoires ik in de interface wilde verwerken. Ik kreeg ook de tip om goed na te denken over waarom ik alle Mickeys op een bepaalde plek wilde neerzetten.
- 
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen.
+  
+ ....Het ging hierbij om het idee dat Mickey Mouse je als het ware door zijn huis meeneemt dat volhangt met oude herinneringen aan zijn leven. Dit was nog slechts een schets en concept, dus waren nog niet 100% doordacht. Zo had ik zelf nog niet helemaal nagedacht over eastereggs en dergelijke, aangezien ik eerst met een leuk en passend idee wilde komen dat ik ook daadwerkelijk zou kunnen realiseren in deze korte tijd. Ik vond het daarbij lastig om de haalbaarheid in te schatten. Wat er dus nog niet in orde was, waren eigenlijk veel dingen. Zo wist ik nog niet welke specifieke jaartallen (dus looks) van Mickey ik wilde laten zien, miste er nog wat eastereggs en had ik nog niet nagedacht over welke accesoires ik in de interface wilde verwerken. Ik kreeg ook de tip om goed na te denken over waarom ik alle Mickeys op een bepaalde plek wilde neerzetten....
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-  > kast maken
+ Ik heb dit probleem opgelost door voor een heel ander onderwerp te kiezen, waarbij ik meer 'unieke' kanten op kon. Zo ben ik voor Mickey Mouse gegaan, aangezien ik hier ook veel affiniteit mee heb. Ik ben immers ook opgegroeid met veel Disney. Ik ben toen vooral gaan googelen en schetsen om erachter te komen wat voor mij een geschikt concept zou zijn om uit te werken. Zo kwam ik uiteindelijk op de eerste schets die hier eerder te zien is. Ik merkte wel nog dat ik nog niet alle tijd had gehad om meer over de diepte na te denken over diverse html/css elementen, zoals de eastereggs. Dit is voor mij dus nog iets om over na te denken. 
 
 
   ### Bevinding 2:
@@ -71,6 +70,7 @@ Mijn startniveau is: blauw
   ### oplossing:
   
   ## Bevinding 4:
+  > kast maken
   
   ### oplossing:
   
