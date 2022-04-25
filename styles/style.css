@@ -15,5 +15,525 @@ button:not([disabled]) {
 /* jouw CSS vanaf hier */
 
 h1 {
-  color:crimson;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main > ol {
+  position:fixed;
+  top:0;
+  left:0;
+  margin:0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+  display: flex;
+}
+
+main > ol > li > img {
+  position: absolute;
+  right: 25%;
+  height: 20em;
+  width: 20em;
+  top: 45%;
+  z-index: 1;
+}
+
+main > ol > li > section {
+  position: absolute;
+  background-color: grey;
+  border-style: solid;
+  border-color: grey;
+  border-radius: 15%;
+  width: 9em;
+  height: 5em;
+  top: 6em;
+  left: 8em;
+  cursor: pointer;
+}
+
+/* kleuren willen niet kloppen???  */
+
+main > ol > li > a:link {
+  position: absolute;
+  right: 2em;
+  top: 48%;
+  width: 2em;
+  height: 2em;
+  background-color: white;
+  color: red;
+  border-style: solid;
+  border-width: 0.2em;
+  border-radius: 60%;
+  border-color: red;
+  text-align: center;
+}
+  
+main > ol > li > a:visited {
+  background-color: white;
+  color: black;
+  border-color: black;
+} 
+  
+main > ol > li > a:hover {
+  background-color: deeppink;
+  color: white;
+}
+  
+main > ol > li > a:active {
+  background-color: blue;
+}
+
+/* knoppen kloppend maken van de radio!!!  */
+
+main > ol > li > section > button {
+  background-color: black;
+  width: 1.5em;
+  height: 1.5em;
+  border-style: solid;
+  border-radius: 70%;
+  border-color: black;
+  border-width: 0.1em;
+}
+
+main > ol > li > section > button:first-of-type {
+  position: absolute;
+  left: 6em;
+  top: 3.8em;
+}
+
+main > ol > li > section > button:last-of-type {
+  position: absolute;
+  left: 8em;
+  top: 3.8em;
+}
+
+main > ol > li > section > section:first-of-type {
+  position: absolute;
+  background-image: radial-gradient(grey 2%, black);
+  width: 4em;
+  height: 4em;
+  top: 0.5em;
+  left: 0.4em;
+  border-style: solid;
+  border-color: black;
+  border-radius: 70%;
+}
+
+main > ol > li > section > section:last-of-type {
+  position: absolute;
+  background-color: black;
+  width: 0.9em;
+  height: 1.6em;
+  border-style: solid;
+  border-radius: 20%;
+  top: -1.6em;
+  right: 1.2em; 
+}
+
+@keyframes muziek {
+  0% {
+    transform: rotate(0);
+  }
+
+  25% {
+    transform: rotate(3deg);
+  }
+
+  50% {
+    transform: rotate(-3deg);
+  }
+
+  75% {
+    transform: rotate(3deg);
+  }
+
+  100% {
+    transform: rotate(0);
+  }
+}
+
+.muziek:hover {
+  animation-name: muziek;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-play-state: running;
+}
+
+.muziek {
+  display: none;
+}
+
+.verstopt2 {
+  display:block;
+  position: absolute;
+  left: 2%;
+  top: 3%;
+  width: 10%;
+  height: 20%;
+  z-index: 1;
+  transform-style: preserve-3d;
+}
+
+
+main > ol > li {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+  background-size: cover;
+  /* background-size:contain; */
+  /* background-repeat: no-repeat; */
+  background-image: url("/images/Huiskamer 1.png");
+  display: inline-flex;
+  scroll-snap-align: center;
+}
+
+main > ol > li:last-of-type > a:link {
+  position: absolute;
+  left: 2em;
+  top: 48%;
+  width: 2em;
+  height: 2em;
+  background-color: white;
+  color: red;
+  border-style: solid;
+  border-width: 0.2em;
+  border-radius: 60%;
+  border-color: red;
+  text-align: center;
+}
+  
+main > ol > li > a:visited {
+  background-color: white;
+  color: black;
+  border-color: black;
+} 
+  
+main > ol > li > a:hover {
+  background-color: deeppink;
+  color: white;
+}
+  
+main > ol > li > a:active {
+  background-color: blue;
+}
+
+main > ol > li:nth-of-type(1) > ol {
+  position: absolute;
+  background-color: burlywood;
+  background-image: linear-gradient(
+    transparent 0% calc(33.3% - .15em), 
+    darkgoldenrod calc(33.3% - .15em) calc(33.3% + .15em),
+    transparent calc(33.3% + .15em) calc(66.7% - .15em),
+    darkgoldenrod calc(66.7% - .15em) calc(66.7% + .15em),
+    transparent calc(66.7% + .15em) 100%
+  );
+  padding: 0;
+  border-style: solid;
+  border-radius: 5%;
+  border-width: 0.3em;
+  border-color: darkgoldenrod;
+  height: 20em;
+  right: 10.5%;
+  bottom: 15%;
+  width: 16em;
+  
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: .3em;
+  list-style-type: none;
+}
+
+main > ol > li:first-of-type > ol > li {
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 0.4rem;
+
+  justify-self: center;
+  align-self:end;
+  cursor: pointer;
+}
+
+main > ol > li:first-of-type > ol > li:nth-of-type(1) {
+  grid-column-start:1;
+  grid-column-end:3;
+  grid-row-start:1;
+  grid-row-end:1;
+  
+  height: 5em;
+  width: 8em;
+}  
+
+@keyframes kastlijsten {
+  0% { 
+    transform: scale(1);
+  }
+
+  100% {
+    transform: scale(1.1);
+  }
+} 
+
+ .planecrazy:hover {
+  animation-name: kastlijsten;
+  animation-duration:0.5s;
+  animation-fill-mode: forwards;
+} 
+
+main > ol > li:first-of-type > ol > li:nth-of-type(2) {
+  grid-column-start:2;
+  grid-column-end:4;
+  grid-row-start:2;
+  grid-row-end:2;
+
+  height: 5em;
+  width: 9em;
+}
+
+.bandconcert:hover {
+  animation-name: kastlijsten;
+  animation-duration:0.5s;
+  animation-fill-mode: forwards;
+} 
+
+main > ol > li:first-of-type > ol > li:nth-of-type(3) {
+  grid-column-start:1;
+  grid-column-end:2;
+  grid-row-start:3;
+  grid-row-end:3;
+
+  height: 5em;
+  width: 4em;
+}  
+
+.simplethings:hover {
+  animation-name: kastlijsten;
+  animation-duration:0.5s;
+  animation-fill-mode: forwards;
+} 
+
+main > ol > li:first-of-type > ol > li:nth-of-type(4) {
+  grid-column-start:2;
+  grid-column-end:3;
+  grid-row-start:3;
+  grid-row-end:3;
+
+  height: 5em;
+  width: 4em;
+}  
+
+.clubhouse:hover {
+  animation-name: kastlijsten;
+  animation-duration:0.5s;
+  animation-fill-mode: forwards;
+} 
+
+main > ol > li:first-of-type > ol > li img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  display:block;
+}
+
+main > ol > li:last-of-type {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/images/Woonkamer 2.png");
+  display: inline-flex;
+  scroll-snap-align: center;
+}
+
+main > ol > li:last-of-type > iframe {
+  position: absolute;
+  width: 20%;
+  height: 25%;
+  left: 12em;
+  top: 33.5%;
+  border-style: solid;
+  border-color: black;
+  border-width: 1em;
+  border-radius: 0.4em;
+}
+
+.schilderij1, .schilderij2, .schilderij3, .schilderij4, .kast1, .kast2, .kast3, .kast4 {
+  display: none;
+}
+
+.verstopt {
+  display: block;
+  position: absolute;
+  background-color: white;
+  font-family: arial;
+  border-style: solid;
+  border-radius: 60%;
+  border-color: black;
+  border-width: 0.8em;
+  left: 10%;
+  top: 23%;
+  width: 30%;
+  height: 60%;
+  z-index: 1;
+  transform-style: preserve-3d;
+  padding: 4em;
+  font-size: 14.5px;
+  text-align: center;
+  box-shadow: 0em 0em 0.8em black;
+}
+
+.oortje1, .oortje2 {
+  width: 14em;
+  height: 14em;
+  background-color: black;
+  border-style: solid;
+  border-radius: 70%;
+  border-color: black;
+  border-width: 0.1em;
+  transform: translateZ(-1em);
+  box-shadow: 0em 0em 0.8em black;
+}
+
+.oortje1 {
+  position: absolute;
+  left: -5em;
+  top: -5em;
+}
+
+.oortje2 {
+  position: absolute;
+  right: -5em;
+  top: -5em;
+}
+
+main > ol > li:last-of-type > ol {
+  position: absolute;
+  list-style-type: none;
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  /* border-style: solid; */
+  /* border-width: 0.3em; */
+  /* border-color: black; */
+  top: 10%;
+  right: 4%;
+  bottom: 40%;
+  height: 21em;
+  width: 35em;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  row-gap: 0.5em;
+  column-gap: 1.4em;
+  list-style-type: none;
+}
+
+main > ol > li:last-of-type > ol > li {
+  position: absolute;
+  background-color: white;
+  border-style: solid;
+  border-color: black;
+  border-width: 0.4rem;
+  cursor: pointer;
+}
+
+main > ol > li:last-of-type > ol > li img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover; 
+  display:block; 
+}
+
+main > ol > li:last-of-type > ol > li:nth-of-type(1) {
+  grid-column-start:1;
+  grid-column-end:3;
+  grid-row-start:1;
+  grid-row-end:2;
+  
+  height: 10em;
+  width: 14em;
+}  
+
+@keyframes schilderijen {
+  0% { 
+    transform: rotate(0);
+  }
+
+  25% {
+    transform: rotate(3deg);
+  }
+
+  50% {
+    transform: rotate(-3deg);
+  }
+
+  75% {
+    transform: rotate(3deg);
+  }
+
+  100% {
+    transform: translatex(0);
+  }
+}
+
+.bravelittletailor:hover {
+  animation-name: schilderijen;
+  animation-duration:0.8s;
+}
+
+main > ol > li:last-of-type > ol > li:nth-of-type(2) {
+  grid-column-start:3;
+  grid-column-end:4;
+  grid-row-start:1;
+  grid-row-end:2;
+
+  height: 10em;
+  width: 14em;
+}  
+
+.fantasia:hover {
+  animation-name: schilderijen;
+  animation-duration:0.8s;
+}
+
+main > ol > li:last-of-type > ol > li:nth-of-type(3) {
+  grid-column-start:2;
+  grid-column-end:3;
+  grid-row-start:2;
+  grid-row-end:2;
+
+  height: 10em;
+  width: 14em;
+}  
+
+.christmascarol:hover {
+  animation-name: schilderijen;
+  animation-duration:0.8s;
+}
+
+main > ol > li:last-of-type > ol > li:nth-of-type(4) {
+  grid-column-start:4;
+  grid-column-end:5;
+  grid-row-start:2;
+  grid-row-end:2;
+
+  height: 10em;
+  width: 14em;
+}  
+
+.mickeymouseworks:hover {
+  animation-name: schilderijen;
+  animation-duration:0.8s;
 }
