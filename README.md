@@ -42,7 +42,7 @@ Mijn startniveau is: blauw
 
 
 
-## Voortgang/Feedback 1
+## Voortgang/Feedback 1 (week 1: di en wo)
 
 <details open>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
@@ -94,7 +94,7 @@ Mijn startniveau is: blauw
 
 
 
-## Voortgang/Feedback 2
+## Voortgang/Feedback 2 (week 1: do en vr)
 
 <details open>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
@@ -138,7 +138,7 @@ Mijn startniveau is: blauw
 
 
 
-## Voortgang/Feedback 3
+## Voortgang/Feedback 3 (week 2: ma en di)
 
 <details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
