@@ -71,6 +71,7 @@ Mijn startniveau is: blauw
   Ik heb aan Sanne gevraagd of ik de achtergrond zou mogen illustreren in Adobe Illustrator en dan daarop HTML/CSS elementen mogen maken. Dit mocht gelukkig, zolang er maar genoeg elementen in code erin zouden komen. Wel adviseerde hij me om meer aandacht in de code te stoppen dan in de achtergrond. Ik heb daarom ervoor gekozen om de achtergrond eerst even kort te schetsen en daarna aan de slag te gaan met coderen. De achtergrond word ik immers niet echt op beoordeeld, maar maakt het meer af. Daarom ben ik met een schets aan de slag gegaan, zodat ik wel de positie van de elementen goed kon bepalen. Ik ben na de schetsen van hieronder dus eerst vooral met coderen aan de slag gegaan. 
   
     <img src="readme-images/SchetsenDinsdag.png" width="375px" alt="schetsen">
+    <img src="readme-images/SchetsenDinsdag.png" width="375px" alt="schetsen">
   
   ## Bevinding 4:
   > kast maken
