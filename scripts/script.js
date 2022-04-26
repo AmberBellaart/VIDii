@@ -70,7 +70,7 @@ function functieOverlay9() {
 // hulp gehad bij audio aan/uit van Timo en knop aan/uit van Sanne
 var geluidAan = document.querySelector(".geluid");
 
-var audioBestand = new Audio("../images/TonySong.mp3");
+var audioBestand = document.querySelector("main> ol > li:first-of-type > audio");
 geluidAan.addEventListener("click", muziekSpeelt);
 
 function muziekSpeelt() {
