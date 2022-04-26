@@ -55,16 +55,19 @@ Mijn startniveau is: blauw
 
   <img src="readme-images/SchetsenDinsdag.png" width="375px" alt="schetsen">
 
+  
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Ik ben dit vak begonnen met bijna geen kennis van HTML/CSS/JS. Ik heb enkel de twee hulplesjes gevold, maar moest het hiermee doen. Ik kom immers van Creative Business waar ik dit nooit heb gehad. In het begin wilde ik dus de structuur maken waarin ik mijn elementen kon gaan zetten, maar dit lukte me niet. Ik wilde immers twee afbeeldingen naast elkaar zetten waar ik dan nog losse elementen later aan toe kon voegen. Ik had geen idee hoe ik dit voor elkaar moest krijgen, dus heb hiervoor om hulp gevraagd. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-  > lijstjes op 2e slide
+  Met hulp van Rowin Schmidt heb ik een structuur in elkaar kunnen zetten van twee 'pagina's' naast elkaar waar ik dan later zelf elementen in kan toevoegen. Dit is gedaan door middel van een ol met 2 li's. Hierin heb ik dan ook weer li's en andere elementen zoals articles. Ik wilde immers ook van de schilderijen en dergelijke een ol maken, aangezien dat hierbij passend is. Hij heeft daarbij de structuur duidelijk uitgelegd, zodat ik hier zelf ook mee verder kan. 
+ 
 
 
   ### Bevinding 3:
   > details aanbrengen in achtergrond en css etc.
+   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  > lijstjes op 2e slide
   
   ### oplossing:
   
