@@ -81,6 +81,7 @@ Mijn startniveau is: blauw
   
   
   ## Bevinding 5:
+
   > kast maken
    > lijstjes op 2e slide
   
