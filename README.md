@@ -73,7 +73,7 @@ Mijn startniveau is: blauw
  <img src="readme-images/Achtergrond2.png" width="375px" alt="achtergrond 2">
   
   
-    ### Bevinding 4:
+  ### Bevinding 4:
   Ik ben dit vak begonnen met bijna geen kennis van HTML/CSS/JS. Ik heb enkel de twee hulplesjes gevold, maar moest het hiermee doen. Ik kom immers van Creative Business waar ik dit nooit heb gehad. In het begin wilde ik dus de structuur maken waarin ik mijn elementen kon gaan zetten, maar dit lukte me niet. Ik wilde immers twee afbeeldingen naast elkaar zetten waar ik dan nog losse elementen later aan toe kon voegen. Ik had geen idee hoe ik dit voor elkaar moest krijgen, dus heb hiervoor om hulp gevraagd. 
 
   #### Oplossing:
