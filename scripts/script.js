@@ -1,7 +1,15 @@
 // JavaScript Document
 console.log("Howdy!");
 
-// hulp bij deze structuur gehad van Sam Lansdaal
+
+
+
+
+// KAST
+// hulp gehad van Sam Landsdaal bij de gehele structuur voor de tekstblokken bij de afbeeldingen 
+// heb 1 lijstje in kast en 1 schilderij samen gedaan en de rest zelf toegepast
+
+// lijstje in kast 1
 var planeCrazy = document.querySelector("main > ol > li:first-of-type > article.kast1");
 
 var kast1 = document.querySelector(".planeCrazy");
@@ -11,7 +19,7 @@ function functieOverlay2() {
     planeCrazy.classList.toggle("verstopt");
 }
 
-
+// lijstje in kast 2
 var bandConcert = document.querySelector("main > ol > li:first-of-type > article.kast2");
 
 var kast2 = document.querySelector(".bandConcert");
@@ -21,7 +29,7 @@ function functieOverlay3() {
     bandConcert.classList.toggle("verstopt");
 }
 
-
+// lijstje in kast 3
 var simpleThings = document.querySelector("main > ol > li:first-of-type > article.kast3");
 
 var kast3 = document.querySelector(".simpleThings");
@@ -31,7 +39,7 @@ function functieOverlay4() {
     simpleThings.classList.toggle("verstopt");
 }
 
-
+// lijstje in kast 4
 var clubhouse = document.querySelector("main > ol > li:first-of-type > article.kast4");
 
 var kast4 = document.querySelector(".clubhouse");
@@ -42,7 +50,24 @@ function functieOverlay5() {
 }
 
 
-// Hulp gehad bij audio aan/uit van Timo en knop aan/uit van Sanne
+
+
+// ANIMATIE MUZIEKNOTEN
+// deze heb ik geheel zelf gedaan op basis van de eerdere hulp van eerdere uitleg van Sam Landsdaal
+var radio = document.querySelector("main > ol > li:first-of-type > img.muziek");
+
+var muziek = document.querySelector(".radio");
+muziek.addEventListener("mouseover", functieOverlay9);
+
+function functieOverlay9() {
+    radio.classList.toggle("verstopt2");
+}
+
+
+
+
+// ANIMATIE AUDIO
+// hulp gehad bij audio aan/uit van Timo en knop aan/uit van Sanne
 var geluidAan = document.querySelector(".geluid");
 
 var audioBestand = new Audio("../images/TonySong.mp3");
@@ -61,7 +86,11 @@ function muziekSpeelt() {
 
 
 
+// GALERIJ
+// hulp gehad van Sam Landsdaal bij de gehele structuur voor de tekstblokken bij de afbeeldingen 
+// heb 1 lijstje in kast en 1 schilderij samen gedaan en de rest zelf toegepast
 
+// schilderij 1
 var braveLittleTailor = document.querySelector("main > ol > li:last-of-type > article.schilderij1");
 
 var schilderij1 = document.querySelector(".braveLittleTailor");
@@ -71,7 +100,7 @@ function functieOverlay() {
     braveLittleTailor.classList.toggle("verstopt");
 }
 
-
+// schilderij 2
 var fantasia = document.querySelector("main > ol > li:last-of-type > article.schilderij2");
 
 var schilderij2 = document.querySelector(".fantasia");
@@ -81,7 +110,7 @@ function functieOverlay6() {
     fantasia.classList.toggle("verstopt");
 }
 
-
+// schilderij 3
 var christmasCarol = document.querySelector("main > ol > li:last-of-type > article.schilderij3");
 
 var schilderij3 = document.querySelector(".christmasCarol");
@@ -91,7 +120,7 @@ function functieOverlay7() {
     christmasCarol.classList.toggle("verstopt");
 }
 
-
+// schilderij 4
 var mickeyMouseWorks = document.querySelector("main > ol > li:last-of-type > article.schilderij4");
 
 var schilderij4 = document.querySelector(".mickeyMouseWorks");
@@ -100,19 +129,3 @@ schilderij4.addEventListener("click", functieOverlay8);
 function functieOverlay8() {
     mickeyMouseWorks.classList.toggle("verstopt");
 }
-
-
-
-
-
-var radio = document.querySelector("main > ol > li:first-of-type > img.muziek");
-
-var muziek = document.querySelector(".radio");
-muziek.addEventListener("mouseover", functieOverlay9);
-
-function functieOverlay9() {
-    radio.classList.toggle("verstopt2");
-}
-
-
-
