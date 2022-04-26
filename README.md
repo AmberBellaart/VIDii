@@ -101,6 +101,7 @@ Mijn startniveau is: blauw
   
   ### Bevinding 1:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  >tekst maken als je op schilderij klikt bij hover...
 
   #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
@@ -108,20 +109,21 @@ Mijn startniveau is: blauw
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-
+  >vormgeven van tekst met mickey oortjes...
+  
   #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 
   ### Bevinding 3:
-  ...
+  >radio maken in css...
 
   #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
   
   ### Bevinding 4:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  >afmaken illustratie...
 
   #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
@@ -144,6 +146,7 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
+  > radio muziek maken + hover muzieknoten.
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
   #### oplossing:
@@ -152,6 +155,7 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 2:
+  > link maken dat je tussen pagina's kunt schakelen.
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
   #### oplossing:
@@ -160,7 +164,24 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 3:
-  ...
+  Problemen met Githbub uploaden > verkeerde bestandsnamen, camelcase, etc.
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  
+  
+  #### Bevinding 4:
+  feedback timo op ma 25 april:...
+  
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  
+  #### Bevinding 5:
+  feedback sophie op di 26 april...
+  
+  #### oplossing:
+  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 </details>
 
