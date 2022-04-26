@@ -180,7 +180,11 @@ Mijn startniveau is: blauw
   #### Bevinding 5:
   feedback sophie op di 26 april...
   
+  
   #### oplossing:
+  Oplossing van muziek en knop>javascript audio linken uit html ipv apart.
+  harde cache legen en reload zodat alles opnieuw inlaad.
+  
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 </details>
