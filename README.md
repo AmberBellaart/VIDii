@@ -81,12 +81,16 @@ Mijn startniveau is: blauw
   
   
   ## Bevinding 5:
-
-  > kast maken
-   > lijstjes op 2e slide
+  Een andere grote uitdaging in deze dagen mbt coderen was het maken van een kast en lijstjes op de twee pagina's. Nadat er twee pagina's gemaakt waren, besloot ik hier eerst mee aan de slag te gaan, aangezien deze de basis vormden voor de tijdlijn. ........
+ 
+  
+  
+  
   
   ### oplossing:
 
+  <img src="readme-images/Achtergrond2.png" width="375px" alt="achtergrond 2">
+  
 </details>
 
 
