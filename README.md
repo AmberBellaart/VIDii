@@ -24,7 +24,7 @@ Mijn startniveau is: blauw
 
 # Je plan
 
-<details open>
+<details>
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
@@ -44,7 +44,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 1 (week 1: di en wo)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
@@ -96,7 +96,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 2 (week 1: do en vr)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
@@ -142,7 +142,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 3 (week 2: ma en di)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
@@ -178,7 +178,7 @@ Mijn startniveau is: blauw
   <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
-  
+  Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen. Uiteindelijk heb ik maandag ook nog wat andere problemen opgelost waar ik uiteindelijk tegenaan liep, zoals: camelCase toevoegen, bestandsnamen zonder spaties, 
   
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
@@ -200,7 +200,7 @@ Mijn startniveau is: blauw
 
 ## Reflectie
 
-<details open>
+<details>
   <summary>Mijn eindresultaat & persoonlijke ontwikkeling</summary>
 
   ### Je uitkomst - karakteristiek screenshot(s):
@@ -225,13 +225,14 @@ Mijn startniveau is: blauw
 
 ## Bronnenlijst
 
-<details open>
+<details>
 <summary>continu bijhouden terwijl je werkt</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. bron 1
-2. bron 2
-3. ...
+1. Klasgenoten, waarbij voornamelijk: Rowin Schmidt, Sam Landsdaal, Timo Smit, ...
+2. De docent: Sanne....
+3. 
+  
 
 </details>
