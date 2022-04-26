@@ -178,10 +178,11 @@ Mijn startniveau is: blauw
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   #### Bevinding 5:
-  feedback sophie op di 26 april...
+  Dinsdag 26 april hebben Sophie en ik nog feedback op elkaars werk gegeven. Ze vind het werk er leuk uit zien. De kleuren passen volgens haar goed bij elkaar, het concept van het huis past bij Mickey vanwege het huiselijke gevoel, de tv is leuk en Pluto erin verwerkt hebben vind ze een leuke touch. Een verbeterpunt was dat de radio button niet meer terug geklikt kan worden en het geluid zich niet afspeelt in Github. Ook gaf ze aan dat ik misschien de schaduw bij de Mickey tekstvlakken weg kan laten, omdat dat minder past bij de rest van de vormgeving. Tot slot gaf ze aan dat ik misschien de schaduw onder Mickey weg zou kunnen halen, aangezien die niet erg responsive is. Dit zijn dingen om volgens haar over na te denken.
+  
+  #### Oplossing:
   
   
-  #### oplossing:
   Oplossing van muziek en knop>javascript audio linken uit html ipv apart.
   harde cache legen en reload zodat alles opnieuw inlaad.
   
