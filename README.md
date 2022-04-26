@@ -142,7 +142,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 3 (week 2: ma en di)
 
-<details>
+<details open>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
