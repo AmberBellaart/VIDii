@@ -171,13 +171,15 @@ Mijn startniveau is: blauw
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   
-  #### Bevinding 4:
-  feedback timo op ma 25 april:...
+  ### Bevinding 4:
+  Maandag 25 april heb ik nog feedback van Timo gehad aan de hand van de checklist die hieronder te zien is. De belangrijkste verbeterpunten daarbij waren: het meer responsive maken van de website (bijv schaduwen van Mickey en kast apart invoegen), de diverse states van knoppen en links maken, headings van secties in H2's veranderen (dus maar 1 H1 op de website) en de HTML/CSS/JS in orde maken met commentaren, structuur, naamgevingen, custom properties en dergelijke zaken.
   
   <img src="readme-images/Feedback1.jpeg" width="375px" alt="Feedback 1">
   <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
+  
+  
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   ### Bevinding 5:
