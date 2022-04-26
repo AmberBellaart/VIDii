@@ -81,15 +81,15 @@ Mijn startniveau is: blauw
   
   
   ## Bevinding 5:
-  Een andere grote uitdaging in deze dagen mbt coderen was het maken van een kast en lijstjes op de twee pagina's. Nadat er twee pagina's gemaakt waren, besloot ik hier eerst mee aan de slag te gaan, aangezien deze de basis vormden voor de tijdlijn. ........
+  Een andere grote uitdaging in deze dagen mbt coderen was het maken van een kast en lijstjes op de twee pagina's. Nadat er twee pagina's gemaakt waren, besloot ik hier eerst mee aan de slag te gaan, aangezien deze de basis vormden voor de tijdlijn. Ik heb eerst de kast in de les gemaakt. Hierbij heb ik soms een korte vraag gesteld, zodat ik hiermee verder kon. Wel heb ik hier veel geprobeerd zelfstandig te doen. Het maken hiervan kon immers grotendeels met de kennis die ik opgedaan had in de twee hulplesjes. Daar had ik immers geleerd een grid te maken en dergelijke. Ik kreeg het alleen niet voor elkaar om 'plankjes' te maken in de kast. Dit heb ik dan ook uiteindelijk gevraagd. Het maken van de galerij was wel erg lastig, want mijn afbeeldingen wilde maar niet goed in het grid komen te staan (zie hieronder). 
  
-  
-  
-  
+  <img src="readme-images/GalerijError.png" width="375px" alt="Error galerij">
   
   ### oplossing:
-
-  <img src="readme-images/Achtergrond2.png" width="375px" alt="achtergrond 2">
+  Uiteindelijk heb ik van de docent hulp gehad bij het maken van 'plankjes' in de kast dmv een background gradient. Het probleem met de galerij heb ik zelf uiteindelijk opgelost. Anderen zagen het in eerste instantie ook niet, dus ben ik zelf door mn code gegaan en heb ik dingen aan en uit gezet. Uiteindelijk kwam ik er na een lange tijd achter dat ik 'last of type' moest toevoegen op een bepaald punt ipv 'first of type'.
+  
+  <img src="readme-images/GalerijError.png" width="375px" alt="Error galerij">
+  
   
 </details>
 
