@@ -1,33 +1,34 @@
 // JavaScript Document
 console.log("Howdy!");
 
-var planecrazy = document.querySelector("main > ol > li:first-of-type > article.kast1");
+// hulp bij deze structuur gehad van Sam Lansdaal
+var planeCrazy = document.querySelector("main > ol > li:first-of-type > article.kast1");
 
-var kast1 = document.querySelector(".planecrazy");
+var kast1 = document.querySelector(".planeCrazy");
 kast1.addEventListener("click", functieOverlay2);
 
 function functieOverlay2() {
-    planecrazy.classList.toggle("verstopt");
+    planeCrazy.classList.toggle("verstopt");
 }
 
 
-var bandconcert = document.querySelector("main > ol > li:first-of-type > article.kast2");
+var bandConcert = document.querySelector("main > ol > li:first-of-type > article.kast2");
 
-var kast2 = document.querySelector(".bandconcert");
+var kast2 = document.querySelector(".bandConcert");
 kast2.addEventListener("click", functieOverlay3);
 
 function functieOverlay3() {
-    bandconcert.classList.toggle("verstopt");
+    bandConcert.classList.toggle("verstopt");
 }
 
 
-var simplethings = document.querySelector("main > ol > li:first-of-type > article.kast3");
+var simpleThings = document.querySelector("main > ol > li:first-of-type > article.kast3");
 
-var kast3 = document.querySelector(".simplethings");
+var kast3 = document.querySelector(".simpleThings");
 kast3.addEventListener("click", functieOverlay4);
 
 function functieOverlay4() {
-    simplethings.classList.toggle("verstopt");
+    simpleThings.classList.toggle("verstopt");
 }
 
 
@@ -41,18 +42,33 @@ function functieOverlay5() {
 }
 
 
+// Hulp gehad bij audio aan/uit van Timo en knop aan/uit van Sanne
+var geluidAan = document.querySelector(".geluid");
+
+var audioBestand = new Audio("../images/TonySong.mp3");
+geluidAan.addEventListener("click", muziekSpeelt);
+
+function muziekSpeelt() {
+    if (audioBestand.paused ) {
+        audioBestand.play();
+        geluidAan.classList.add("playing");
+    } else {
+        audioBestand.pause();
+        geluidAan.classList.remove("playing");
+    }
+}
 
 
 
 
 
-var bravelittletailor = document.querySelector("main > ol > li:last-of-type > article.schilderij1");
+var braveLittleTailor = document.querySelector("main > ol > li:last-of-type > article.schilderij1");
 
-var schilderij1 = document.querySelector(".bravelittletailor");
+var schilderij1 = document.querySelector(".braveLittleTailor");
 schilderij1.addEventListener("click", functieOverlay);
 
 function functieOverlay() {
-    bravelittletailor.classList.toggle("verstopt");
+    braveLittleTailor.classList.toggle("verstopt");
 }
 
 
@@ -66,23 +82,23 @@ function functieOverlay6() {
 }
 
 
-var christmascarol = document.querySelector("main > ol > li:last-of-type > article.schilderij3");
+var christmasCarol = document.querySelector("main > ol > li:last-of-type > article.schilderij3");
 
-var schilderij3 = document.querySelector(".christmascarol");
+var schilderij3 = document.querySelector(".christmasCarol");
 schilderij3.addEventListener("click", functieOverlay7);
 
 function functieOverlay7() {
-    christmascarol.classList.toggle("verstopt");
+    christmasCarol.classList.toggle("verstopt");
 }
 
 
-var mickeymouseworks = document.querySelector("main > ol > li:last-of-type > article.schilderij4");
+var mickeyMouseWorks = document.querySelector("main > ol > li:last-of-type > article.schilderij4");
 
-var schilderij4 = document.querySelector(".mickeymouseworks");
+var schilderij4 = document.querySelector(".mickeyMouseWorks");
 schilderij4.addEventListener("click", functieOverlay8);
 
 function functieOverlay8() {
-    mickeymouseworks.classList.toggle("verstopt");
+    mickeyMouseWorks.classList.toggle("verstopt");
 }
 
 

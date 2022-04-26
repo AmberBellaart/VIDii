@@ -3,6 +3,42 @@
   box-sizing:border-box;  
 }
 
+/* nog 1 source toevoegen */
+@font-face {
+  font-family: minnie;
+  src: url(../Fonts/Minnie2.woff2) format('woff2');
+  src: url(../Fonts/Minnie.woff) format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: fallback;
+}
+
+:root {
+  --tekst-kleur: #000000;
+  --achtergrond-licht: #ffffff;
+  --achtergrond-donker: #000000;
+  --border-donker: #000000;
+  --border-licht: #ffffff;
+  --accent-donker: #000000;
+  --accent-licht: #ffffff;
+
+  --radio-kleur: #808080;
+  --kast-kleur: #deb887;
+  --kast-accent-kleur: #b8860b;
+
+  --link-kleur: #000000;
+  --link-visited: #483d8b;
+  --link-hover: #778899;
+  --link-active: #2f4f4f;
+
+  --button-kleur: #000000;
+  --button-hover: #d3d3d3;
+  --button-focus: #d3d3d3;
+  --button-active: #ffffff;
+  --button-playing: #514c4c;
+  --button-after: #d3d3d3;
+}
+
 html, body {
   height:100%;
   margin:0;
@@ -14,14 +50,24 @@ button:not([disabled]) {
 
 /* jouw CSS vanaf hier */
 
-h1 {
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+body > header > h1 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 999;
+  font-family: 'minnie', Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  color: var(--accent-licht);
 }
 
-p {
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+body > header > h2 {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 6.5%;
+  z-index: 999;
+  font-family: minnie;
+  font-size: 1em;
 }
 
 main > ol {
@@ -48,65 +94,89 @@ main > ol > li > img {
 
 main > ol > li > section {
   position: absolute;
-  background-color: grey;
+  background-color: var(--radio-kleur);
   border-style: solid;
-  border-color: grey;
+  border-color: var(--radio-kleur);
   border-radius: 15%;
   width: 9em;
   height: 5em;
-  top: 6em;
-  left: 8em;
+  top: 13%;
+  left: 9%;
   cursor: pointer;
 }
-
-/* kleuren willen niet kloppen???  */
 
 main > ol > li > a:link {
   position: absolute;
   right: 2em;
-  top: 48%;
+  top: 47%;
   width: 2em;
   height: 2em;
-  background-color: white;
-  color: red;
+  background-color: var(--achtergrond-donker);
   border-style: solid;
   border-width: 0.2em;
   border-radius: 60%;
-  border-color: red;
+  border-color: black;
   text-align: center;
+  padding: 0.1em;
 }
   
 main > ol > li > a:visited {
-  background-color: white;
-  color: black;
-  border-color: black;
+  background-color: var(--link-visited);
+  border-color: var(--link-visited);
 } 
   
 main > ol > li > a:hover {
-  background-color: deeppink;
-  color: white;
+  background-color: var(--link-hover);
+  border-color: var(--accent-licht);
 }
   
 main > ol > li > a:active {
-  background-color: blue;
+  background-color: var(--link-active);
 }
 
-/* knoppen kloppend maken van de radio!!!  */
-
 main > ol > li > section > button {
-  background-color: black;
+  background-color: var(--achtergrond-donker);
   width: 1.5em;
   height: 1.5em;
   border-style: solid;
   border-radius: 70%;
   border-color: black;
   border-width: 0.1em;
+  padding:0;
 }
 
 main > ol > li > section > button:first-of-type {
   position: absolute;
   left: 6em;
   top: 3.8em;
+}
+
+main > ol > li > section > button:first-of-type:hover {
+  border-color: var(--button-hover);
+}
+
+main > ol > li > section > button:first-of-type:focus {
+  background-color: var(--button-focus);
+  border-color: var(--button-focus);
+}
+
+main > ol > li > section > button:first-of-type:active {
+  background-color: var(--button-active);
+  border-color: var(--accent-licht);
+}
+
+main > ol > li > section > button:first-of-type.playing {
+  background-color: var(--button-playing);
+  border-color: var(--button-playing);
+}
+
+/* Hulp gehad van Sanne */
+main > ol > li > section > button:first-of-type.playing::after {
+  content:"♪";
+  color: var(--button-after);
+  filter:
+    drop-shadow(0 0 1px var(--button-after))
+    drop-shadow(0 0 2px var(--button-after));
 }
 
 main > ol > li > section > button:last-of-type {
@@ -117,19 +187,19 @@ main > ol > li > section > button:last-of-type {
 
 main > ol > li > section > section:first-of-type {
   position: absolute;
-  background-image: radial-gradient(grey 2%, black);
+  background-image: radial-gradient(var(--radio-kleur) 2%, var(--accent-donker));
   width: 4em;
   height: 4em;
   top: 0.5em;
   left: 0.4em;
   border-style: solid;
-  border-color: black;
+  border-color: var(--accent-donker);
   border-radius: 70%;
 }
 
 main > ol > li > section > section:last-of-type {
   position: absolute;
-  background-color: black;
+  background-color: var(--achtergrond-donker);
   width: 0.9em;
   height: 1.6em;
   border-style: solid;
@@ -189,8 +259,6 @@ main > ol > li {
   height: 100%;
   flex-shrink: 0;
   background-size: cover;
-  /* background-size:contain; */
-  /* background-repeat: no-repeat; */
   background-image: url("../images/Huiskamer1.png");
   display: inline-flex;
   scroll-snap-align: center;
@@ -199,48 +267,46 @@ main > ol > li {
 main > ol > li:last-of-type > a:link {
   position: absolute;
   left: 2em;
-  top: 48%;
+  top: 47%;
   width: 2em;
   height: 2em;
-  background-color: white;
-  color: red;
+  background-color: var(--achtergrond-donker);
   border-style: solid;
   border-width: 0.2em;
   border-radius: 60%;
-  border-color: red;
-  text-align: center;
+  border-color: var(--border-donker);
+  padding-top: 0.2em;
 }
   
 main > ol > li > a:visited {
-  background-color: white;
-  color: black;
-  border-color: black;
+  background-color: var(--link-visited);
+  border-color: var(--link-visited);
 } 
   
 main > ol > li > a:hover {
-  background-color: deeppink;
-  color: white;
+  background-color: var(--link-hover);
+  border-color: var(--border-licht);
 }
   
 main > ol > li > a:active {
-  background-color: blue;
+  background-color: var(--link-active);
 }
 
 main > ol > li:nth-of-type(1) > ol {
   position: absolute;
-  background-color: burlywood;
+  background-color: var(--kast-kleur);
   background-image: linear-gradient(
     transparent 0% calc(33.3% - .15em), 
-    darkgoldenrod calc(33.3% - .15em) calc(33.3% + .15em),
+    var(--kast-accent-kleur) calc(33.3% - .15em) calc(33.3% + .15em),
     transparent calc(33.3% + .15em) calc(66.7% - .15em),
-    darkgoldenrod calc(66.7% - .15em) calc(66.7% + .15em),
+    var(--kast-accent-kleur) calc(66.7% - .15em) calc(66.7% + .15em),
     transparent calc(66.7% + .15em) 100%
   );
   padding: 0;
   border-style: solid;
   border-radius: 5%;
   border-width: 0.3em;
-  border-color: darkgoldenrod;
+  border-color: var(--kast-accent-kleur);
   height: 20em;
   right: 10.5%;
   bottom: 15%;
@@ -254,9 +320,9 @@ main > ol > li:nth-of-type(1) > ol {
 }
 
 main > ol > li:first-of-type > ol > li {
-  background-color: white;
+  background-color: var(--achtergrond-licht);
   border-style: solid;
-  border-color: black;
+  border-color: var(--border-donker);
   border-width: 0.4rem;
 
   justify-self: center;
@@ -284,7 +350,7 @@ main > ol > li:first-of-type > ol > li:nth-of-type(1) {
   }
 } 
 
- .planecrazy:hover {
+ .planeCrazy:hover {
   animation-name: kastlijsten;
   animation-duration:0.5s;
   animation-fill-mode: forwards;
@@ -300,7 +366,7 @@ main > ol > li:first-of-type > ol > li:nth-of-type(2) {
   width: 9em;
 }
 
-.bandconcert:hover {
+.bandConcert:hover {
   animation-name: kastlijsten;
   animation-duration:0.5s;
   animation-fill-mode: forwards;
@@ -316,7 +382,7 @@ main > ol > li:first-of-type > ol > li:nth-of-type(3) {
   width: 4em;
 }  
 
-.simplethings:hover {
+.simpleThings:hover {
   animation-name: kastlijsten;
   animation-duration:0.5s;
   animation-fill-mode: forwards;
@@ -363,7 +429,7 @@ main > ol > li:last-of-type > iframe {
   left: 12em;
   top: 33.5%;
   border-style: solid;
-  border-color: black;
+  border-color: var(--border-donker);
   border-width: 1em;
   border-radius: 0.4em;
 }
@@ -375,11 +441,11 @@ main > ol > li:last-of-type > iframe {
 .verstopt {
   display: block;
   position: absolute;
-  background-color: white;
+  background-color: var(--achtergrond-licht);
   font-family: arial;
   border-style: solid;
   border-radius: 60%;
-  border-color: black;
+  border-color: var(--border-donker);
   border-width: 0.8em;
   left: 10%;
   top: 23%;
@@ -390,19 +456,19 @@ main > ol > li:last-of-type > iframe {
   padding: 4em;
   font-size: 14.5px;
   text-align: center;
-  box-shadow: 0em 0em 0.8em black;
+  box-shadow: 0em 0em 0.8em var(--accent-donker);
 }
 
 .oortje1, .oortje2 {
   width: 14em;
   height: 14em;
-  background-color: black;
+  background-color: var(--achtergrond-donker);
   border-style: solid;
   border-radius: 70%;
   border-color: black;
   border-width: 0.1em;
   transform: translateZ(-1em);
-  box-shadow: 0em 0em 0.8em black;
+  box-shadow: 0em 0em 0.8em var(--accent-donker);
 }
 
 .oortje1 {
@@ -423,9 +489,6 @@ main > ol > li:last-of-type > ol {
   background-color: transparent;
   padding: 0;
   margin: 0;
-  /* border-style: solid; */
-  /* border-width: 0.3em; */
-  /* border-color: black; */
   top: 10%;
   right: 4%;
   bottom: 40%;
@@ -442,9 +505,9 @@ main > ol > li:last-of-type > ol {
 
 main > ol > li:last-of-type > ol > li {
   position: absolute;
-  background-color: white;
+  background-color: var(--achtergrond-licht);
   border-style: solid;
-  border-color: black;
+  border-color: var(--border-donker);
   border-width: 0.4rem;
   cursor: pointer;
 }
@@ -488,7 +551,7 @@ main > ol > li:last-of-type > ol > li:nth-of-type(1) {
   }
 }
 
-.bravelittletailor:hover {
+.braveLittleTailor:hover {
   animation-name: schilderijen;
   animation-duration:0.8s;
 }
@@ -518,7 +581,7 @@ main > ol > li:last-of-type > ol > li:nth-of-type(3) {
   width: 14em;
 }  
 
-.christmascarol:hover {
+.christmasCarol:hover {
   animation-name: schilderijen;
   animation-duration:0.8s;
 }
@@ -533,7 +596,7 @@ main > ol > li:last-of-type > ol > li:nth-of-type(4) {
   width: 14em;
 }  
 
-.mickeymouseworks:hover {
+.mickeyMouseWorks:hover {
   animation-name: schilderijen;
   animation-duration:0.8s;
 }
