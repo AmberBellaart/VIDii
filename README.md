@@ -107,6 +107,7 @@ Mijn startniveau is: blauw
   
   <img src="readme-images/TekstHover.png" width="375px" alt="Tekst Hover">
 
+  
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
   >vormgeven van tekst met mickey oortjes...
@@ -116,6 +117,8 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 3:
+  Ik vond dat ik wel een los voorwerp met HTML/CSS moest vormgeven, aangezien het vak over coderen gaat. Daarom heb ik besloten om de radio geheel te coderen. Voor de radio wilde ik immers ook iets doen met animeren of een easteregg, dus was dit wel zo verstandig. 
+  
   >radio maken in css...
 
   #### Oplossing:
@@ -164,10 +167,14 @@ Mijn startniveau is: blauw
 
 
   ### Bevinding 3:
+  Maandags liep ik tegen problemen aan met mijn code en GitHub. Zo merkte ik dat mijn afbeeldingen in GitHub niet wilden inladen. Ik zah hierbij het probleem niet echt, aangezien de bestandsnamen precies overeenkwamen. Uiteindelijk hoorde ik van een klasgenoot dat het lag aan het feit dat in mijn bestandsnamen spaties zaten. Ik had niet opgeslagen dat dit niet mocht, dus moest daardoor alle namen veranderen. Wat betreft mijn code bleek dat ik camelCase nog niet goed had toegepast
+  
   Problemen met Githbub uploaden > verkeerde bestandsnamen, camelcase, etc.
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   #### Oplossing:
+  Om het GitHub probleem op te lossen heb ik dus alle bestandsnamen van de afbeeldingen aangepast, zodat deze geen spaties meer bevatten. Ook kreeg ik mbt Github de tip van Rowin Schmidt dat het verstandig is om je cache regelmatig te legen als het niet wil werken. Dit kan soms tegenwerken wanneer je iets werkend wil krijgen, want hierdoor kan je een vertekend beeld krijgen van hoe alles werkt. Later heb ik deze tip ook nog van de docent gekregen. 
+  
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   
@@ -178,7 +185,7 @@ Mijn startniveau is: blauw
   <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
-  **Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. Voor een volgende keer zou ik dan veel meer elementen afzonderlijk met CSS moeten maken, wil ik dat alles goed responsive is. Voor nu was dat binnen de tijd en met mijn kennis nog niet heel haalbaar. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen. Uiteindelijk heb ik maandag ook nog wat andere problemen opgelost waar ik uiteindelijk tegenaan liep, zoals: camelCase toevoegen, bestandsnamen zonder spaties, .......????**
+  Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. Voor een volgende keer zou ik dan veel meer elementen afzonderlijk met CSS moeten maken, wil ik dat alles goed responsive is. Voor nu was dat binnen de tijd en met mijn kennis nog niet heel haalbaar. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen.
   
   
   ### Bevinding 5:
