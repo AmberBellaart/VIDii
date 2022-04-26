@@ -45,7 +45,7 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 1 (week 1: di en wo)
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
   De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen. Ik ben toen dan ook geswitcht van onderwerp en heb gekozen voor Mickey Mouse. 
@@ -97,15 +97,15 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 2 (week 1: do en vr)
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
   
   ### Bevinding 1:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-  >tekst maken als je op schilderij klikt bij hover...
+  Een van de dingen waar ik tegenaan liep was hoe ik tekst tevoorschijn kon laten komen als ik op een lijstje/afbeelding zou klikken. Dit zou dan voor elke afbeelding andere tekst moeten zijn. Ik had echt geen idee waar ik zou moeten beginnen om dit voor elkaar te krijgen. Sam Landsdaal vertelde mij dat dit mogelijk was met JavaScript. Hij heeft me de code uitgelegd en daarna laten toepassen voor mijn werk. 
 
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Sam heeft me door de diverse stappen meegenomen voor één afbeelding, zodat ik deze later zelf uit zou kunnen voeren voor alle andere afbeeldingen. Hij legde het heel helder uit, waardoor ik ook de structuur wel aardig snap. Toen ik het zelf ging toepassen (op een ander scherm) merkte ik echter dat het niet werkte. Sam heeft toen nogmaals meegekeken en kwam erachter dat ik voor een andere li (dus ander scherm in de hoofd-ol) een extra aanpassing diende te doen. Ik vond het fijn dat dit in de les ontdekt is, want hierdoor kon ik daarna in het weekend zelf alle code voor alle afbeeldingen schrijven. Hieronder is te zien hoe die teksten er in het begin uitzagen. 
+  
+  
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
@@ -178,9 +178,8 @@ Mijn startniveau is: blauw
   <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
-  Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen. Uiteindelijk heb ik maandag ook nog wat andere problemen opgelost waar ik uiteindelijk tegenaan liep, zoals: camelCase toevoegen, bestandsnamen zonder spaties, 
+  **Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. Voor een volgende keer zou ik dan veel meer elementen afzonderlijk met CSS moeten maken, wil ik dat alles goed responsive is. Voor nu was dat binnen de tijd en met mijn kennis nog niet heel haalbaar. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen. Uiteindelijk heb ik maandag ook nog wat andere problemen opgelost waar ik uiteindelijk tegenaan liep, zoals: camelCase toevoegen, bestandsnamen zonder spaties, .......????**
   
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
   
   ### Bevinding 5:
   Dinsdag 26 april hebben Sophie en ik nog feedback op elkaars werk gegeven. Ze vind het werk er leuk uit zien. De kleuren passen volgens haar goed bij elkaar, het concept van het huis past bij Mickey vanwege het huiselijke gevoel, de tv is leuk en Pluto erin verwerkt hebben vind ze een leuke touch. Een verbeterpunt was dat de radio button niet meer terug geklikt kan worden en het geluid zich niet afspeelt in Github. Ook gaf ze aan dat ik misschien de schaduw bij de Mickey tekstvlakken weg kan laten, omdat dat minder past bij de rest van de vormgeving. Tot slot gaf ze aan dat ik misschien de schaduw onder Mickey weg zou kunnen halen, aangezien die niet erg responsive is. Dit zijn dingen om volgens haar over na te denken.
