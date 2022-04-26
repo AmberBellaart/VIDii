@@ -169,13 +169,8 @@ Mijn startniveau is: blauw
   ### Bevinding 3:
   Maandags liep ik tegen problemen aan met mijn code en GitHub. Zo merkte ik dat mijn afbeeldingen in GitHub niet wilden inladen. Ik zah hierbij het probleem niet echt, aangezien de bestandsnamen precies overeenkwamen. Uiteindelijk hoorde ik van een klasgenoot dat het lag aan het feit dat in mijn bestandsnamen spaties zaten. Ik had niet opgeslagen dat dit niet mocht, dus moest daardoor alle namen veranderen. Wat betreft mijn code bleek dat ik camelCase nog niet goed had toegepast
   
-  Problemen met Githbub uploaden > verkeerde bestandsnamen, camelcase, etc.
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-  
   #### Oplossing:
-  Om het GitHub probleem op te lossen heb ik dus alle bestandsnamen van de afbeeldingen aangepast, zodat deze geen spaties meer bevatten. Ook kreeg ik mbt Github de tip van Rowin Schmidt dat het verstandig is om je cache regelmatig te legen als het niet wil werken. Dit kan soms tegenwerken wanneer je iets werkend wil krijgen, want hierdoor kan je een vertekend beeld krijgen van hoe alles werkt. Later heb ik deze tip ook nog van de docent gekregen. 
-  
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Om het GitHub probleem op te lossen heb ik dus alle bestandsnamen van de afbeeldingen aangepast, zodat deze geen spaties meer bevatten. Ook kreeg ik mbt Github de tip van Rowin Schmidt dat het verstandig is om je cache regelmatig te legen als het niet wil werken. Dit kan soms tegenwerken wanneer je iets werkend wil krijgen, want hierdoor kan je een vertekend beeld krijgen van hoe alles werkt. Later heb ik deze tip ook nog van de docent gekregen. Ook de camelCase heb ik uiteindelijk nog overal in mijn werk toegevoegd, zodat dit consistent gebeurd is.
   
   
   ### Bevinding 4:
