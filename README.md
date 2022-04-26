@@ -105,7 +105,7 @@ Mijn startniveau is: blauw
   #### Oplossing:
   Sam heeft me door de diverse stappen meegenomen voor één afbeelding, zodat ik deze later zelf uit zou kunnen voeren voor alle andere afbeeldingen. Hij legde het heel helder uit, waardoor ik ook de structuur wel aardig snap. Toen ik het zelf ging toepassen (op een ander scherm) merkte ik echter dat het niet werkte. Sam heeft toen nogmaals meegekeken en kwam erachter dat ik voor een andere li (dus ander scherm in de hoofd-ol) een extra aanpassing diende te doen. Ik vond het fijn dat dit in de les ontdekt is, want hierdoor kon ik daarna in het weekend zelf alle code voor alle afbeeldingen schrijven. Hieronder is te zien hoe die teksten er in het begin uitzagen. 
   
-  
+  <img src="readme-images/TekstHover.png" width="375px" alt="Tekst Hover">
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
