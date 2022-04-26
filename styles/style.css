@@ -422,7 +422,7 @@ main > ol > li:last-of-type {
   scroll-snap-align: center;
 }
 
-main > ol > li:last-of-type > iframe {
+main > ol > li:last-of-type > video {
   position: absolute;
   width: 20%;
   height: 25%;
@@ -432,6 +432,7 @@ main > ol > li:last-of-type > iframe {
   border-color: var(--border-donker);
   border-width: 1em;
   border-radius: 0.4em;
+  background-color: black;
 }
 
 .schilderij1, .schilderij2, .schilderij3, .schilderij4, .kast1, .kast2, .kast3, .kast4 {
