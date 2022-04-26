@@ -53,7 +53,7 @@ Mijn startniveau is: blauw
   #### Oplossing:
  Hierbij ben ik gaan schetsen om te kijken waar ik mee kon komen. Uiteindelijk heb ik gekozen voor het idee dat Mickey je door zijn huis als het ware meeneemt dat vol met herinneringen hangt. Dit vind ik een mooie manier, aangezien Mickey al lang meegaat en hij ook een programma had wat 'Mickey Mouse Clubhosue' heette. Hierbij was je ook als het ware in zijn huis waarbij er veel elementen zijn in het interieur die aan Mickey doen denken. Dat idee wilde ik ook creeren maar dan met zijn geschiedenis. Het concept diende ik nog wel verder uit te werken (welke jaartallen, eastereggs, vormgeving van het huis, etc.).
 
-  <img src="readme-images/Schetsen.jpeg" width="375px" alt="schetsen">
+  <img src="readme-images/SchetsenDinsdag.png" width="375px" alt="schetsen">
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
