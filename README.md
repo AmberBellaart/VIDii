@@ -88,7 +88,7 @@ Mijn startniveau is: blauw
   ### oplossing:
   Uiteindelijk heb ik van de docent hulp gehad bij het maken van 'plankjes' in de kast dmv een background gradient. Het probleem met de galerij heb ik zelf uiteindelijk opgelost. Anderen zagen het in eerste instantie ook niet, dus ben ik zelf door mn code gegaan en heb ik dingen aan en uit gezet. Uiteindelijk kwam ik er na een lange tijd achter dat ik 'last of type' moest toevoegen op een bepaald punt ipv 'first of type'.
   
-  <img src="readme-images/GalerijError.png" width="375px" alt="Error galerij">
+  <img src="readme-images/ErrorCode1.png" width="375px" alt="Error code 1">
   
   
 </details>
