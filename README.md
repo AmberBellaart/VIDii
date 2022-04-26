@@ -55,22 +55,15 @@ Mijn startniveau is: blauw
 
   <img src="readme-images/SchetsenDinsdag.png" width="375px" alt="schetsen">
 
+  
   ### Bevinding 2:
   In de les van woensdag hebben we feedback gehad op ons concept (zie de eerste versie/schets afbeelding). Ik heb daarbij feedback gehad van Sophie Bierens en de docent. Sophie gaf aan de Mickey's minder random te positioneren, dat de tv met een video een goed idee was, het leuk is om wat accesoires die passen bij Mickey toe te voegen, de radio interactief te maken en een ander karakter zoals Pluto toe te voegen. Sanne gaf aan dat het leuk is om misschien wat achter de schilderijtjes vandaan te laten komen en dat ik goed moet nadenken over de positionering van de diverse Mickeys. Waarom verdient een Mickey een plek aan de muur en de ander in de kast bijv. 
   
   ### Oplossing: 
   Ik neem deze feedback mee bij het verder concretiseren van mijn interface. Zo wil ik pluto gaan verwerken in mijn achtergrond, van de radio een easteregg maken, ga ik de losse kleine Mickeys weglaten, de tv toevoegen, wat accesoires in de achtergrond verwerken en goed nadenken over de Mickeys die ik ga laten zien in mijn tijdlijn + positionering hiervan. 
-  
-  
+
+
   ### Bevinding 3:
-  Ik ben dit vak begonnen met bijna geen kennis van HTML/CSS/JS. Ik heb enkel de twee hulplesjes gevold, maar moest het hiermee doen. Ik kom immers van Creative Business waar ik dit nooit heb gehad. In het begin wilde ik dus de structuur maken waarin ik mijn elementen kon gaan zetten, maar dit lukte me niet. Ik wilde immers twee afbeeldingen naast elkaar zetten waar ik dan nog losse elementen later aan toe kon voegen. Ik had geen idee hoe ik dit voor elkaar moest krijgen, dus heb hiervoor om hulp gevraagd. 
-
-  #### Oplossing:
-  Met hulp van Rowin Schmidt heb ik een structuur in elkaar kunnen zetten van twee 'pagina's' naast elkaar waar ik dan later zelf elementen in kan toevoegen. Dit is gedaan door middel van een ol met 2 li's. Hierin heb ik dan ook weer li's en andere elementen zoals articles. Ik wilde immers ook van de schilderijen en dergelijke een ol maken, aangezien dat hierbij passend is. Hij heeft daarbij de structuur duidelijk uitgelegd, zodat ik hier zelf ook mee verder kan. 
- 
-
-
-  ### Bevinding 4:
   Ik kwam erachter dat het heel veel werk zou zijn om mijn gehele achtergrond in HTML/CSS te maken. Ik wilde immers Mickey wel een leuk en gevuld huis geven, dus zou dan heel veel elementen moeten maken. Ik wilde hiervoor dus een oplossing vinden. 
   
   ### Oplossing:
@@ -78,6 +71,14 @@ Mijn startniveau is: blauw
   
  <img src="readme-images/Achtergrond1.png" width="375px" alt="achtergrond 1">
  <img src="readme-images/Achtergrond2.png" width="375px" alt="achtergrond 2">
+  
+  
+    ### Bevinding 4:
+  Ik ben dit vak begonnen met bijna geen kennis van HTML/CSS/JS. Ik heb enkel de twee hulplesjes gevold, maar moest het hiermee doen. Ik kom immers van Creative Business waar ik dit nooit heb gehad. In het begin wilde ik dus de structuur maken waarin ik mijn elementen kon gaan zetten, maar dit lukte me niet. Ik wilde immers twee afbeeldingen naast elkaar zetten waar ik dan nog losse elementen later aan toe kon voegen. Ik had geen idee hoe ik dit voor elkaar moest krijgen, dus heb hiervoor om hulp gevraagd. 
+
+  #### Oplossing:
+  Met hulp van Rowin Schmidt heb ik een structuur in elkaar kunnen zetten van twee 'pagina's' naast elkaar waar ik dan later zelf elementen in kan toevoegen. Dit is gedaan door middel van een ol met 2 li's. Hierin heb ik dan ook weer li's en andere elementen zoals articles. Ik wilde immers ook van de schilderijen en dergelijke een ol maken, aangezien dat hierbij passend is. Hij heeft daarbij de structuur duidelijk uitgelegd, zodat ik hier zelf ook mee verder kan. 
+  
   
   ## Bevinding 5:
   > kast maken
