@@ -48,11 +48,12 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
-  De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen. Ik ben toen dan ook geswitcht van onderwerp en heb gekozen voor Mickey Mouse. Daarbij ben ik gaan schetsen om te kijken waar ik mee kon komen. Uiteindelijk heb ik gekozen voor het idee dat Mickey je door zijn huis als het ware meeneemt dat vol met herinneringen hangt. Dit vind ik een mooie manier, aangezien Mickey al lang meegaat en hij ook een programma had wat 'Mickey Mouse Clubhosue' heette. Hierbij was je ook als het ware in zijn huis waarbij er veel elementen zijn in het interieur die aan Mickey doen denken. Dat idee wilde ik ook creeren maar dan met zijn geschiedenis. Het concept diende ik nog wel verder uit te werken (welke jaartallen, eastereggs, vormgeving van het huis, etc.).
+  De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen. Ik ben toen dan ook geswitcht van onderwerp en heb gekozen voor Mickey Mouse. 
 
-  #### oplossing:
- Ik heb dit probleem opgelost door voor een heel ander onderwerp te kiezen, waarbij ik meer 'unieke' kanten op kon. Zo ben ik voor Mickey Mouse gegaan, aangezien ik hier ook veel affiniteit mee heb. Ik ben immers ook opgegroeid met veel Disney. Ik ben toen vooral gaan googelen en schetsen om erachter te komen wat voor mij een geschikt concept zou zijn om uit te werken. Zo kwam ik uiteindelijk op de eerste schets die hier eerder te zien is. Ik merkte wel nog dat ik nog niet alle tijd had gehad om meer over de diepte na te denken over diverse html/css elementen, zoals de eastereggs. Dit is voor mij dus nog iets om over na te denken. 
+  #### Oplossing:
+ Hierbij ben ik gaan schetsen om te kijken waar ik mee kon komen. Uiteindelijk heb ik gekozen voor het idee dat Mickey je door zijn huis als het ware meeneemt dat vol met herinneringen hangt. Dit vind ik een mooie manier, aangezien Mickey al lang meegaat en hij ook een programma had wat 'Mickey Mouse Clubhosue' heette. Hierbij was je ook als het ware in zijn huis waarbij er veel elementen zijn in het interieur die aan Mickey doen denken. Dat idee wilde ik ook creeren maar dan met zijn geschiedenis. Het concept diende ik nog wel verder uit te werken (welke jaartallen, eastereggs, vormgeving van het huis, etc.).
 
+  <img src="readme-images/Schetsen.png" width="375px" alt="schetsen">
 
   ### Bevinding 2:
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
