@@ -44,7 +44,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 1
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
