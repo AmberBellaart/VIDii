@@ -24,7 +24,7 @@ Mijn startniveau is: blauw
 
 # Je plan
 
-<details open>
+<details>
   <summary>De eerste versie/schets van je ontwerp & je persoonlijke uitdaging</summary>
 
   ### De eerste versie/schets:
@@ -44,7 +44,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 1 (week 1: di en wo)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
 
   ### Bevinding 1:
@@ -96,7 +96,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 2 (week 1: do en vr)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
@@ -142,7 +142,7 @@ Mijn startniveau is: blauw
 
 ## Voortgang/Feedback 3 (week 2: ma en di)
 
-<details open>
+<details>
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
