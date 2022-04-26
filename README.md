@@ -175,7 +175,7 @@ Mijn startniveau is: blauw
   feedback timo op ma 25 april:...
   
   <img src="readme-images/Feedback1.jpeg" width="375px" alt="Feedback 1">
-  <img src="readme-images/Feedback2.png" width="375px" alt="Feedback 2">
+  <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
   Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
