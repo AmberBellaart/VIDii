@@ -117,25 +117,31 @@ Mijn startniveau is: blauw
   <img src="readme-images/MickeyOortjesBegin.png" width="375px" alt="Tekstvak Oortjes Begin">
   <img src="readme-images/MickeyOortjesEind.png" width="375px" alt="Tekstvak Oortjes Eind">
 
+  
   ### Bevinding 3:
   Ik vond dat ik wel een los voorwerp met HTML/CSS moest vormgeven, aangezien het vak over coderen gaat. Daarom heb ik besloten om de radio geheel te coderen. Voor de radio wilde ik immers ook iets doen met animeren of een easteregg, dus was dit wel zo verstandig. Ik ben daarom de radio gaan coderen. Daarbij heb ik ook een gradient toegepast en knoppen toegevoegd. Deze knoppen kan ik immers dan weer later gebruiken bij de animatie. Ook heb ik met de opgedane kennis over JavaScript muzieknoten in een hover toegevoegd. Dus als je nu over de radio gaat, krijg je die muzieknootjes te zien die ook nog kunnen bewegen. Wel krijg je die enkel bewegend als je over de muzieknoten zelf gaat, dus dat wil ik eigenlijk nog oplossen. Ook wil ik nog iets van muziek toevoegen. 
+  
+  <img src="readme-images/RadioMuziek.png" width="375px" alt="Radio Muziek">
 
   #### Oplossing:
-  Ik heb muziek proberen toe te voegen, maar dat ging nog niet helemaal goed. Ik wilde immers dat de muziek zich enkel afspeelde als je op de radio klikte of erover hoverde, niet standaard op de pagina. Dat vond ik immers afbreuk doen aan het easteregg effect. Dat wil ik dus nog even vragen aan anderen, aangezien ik vermoed dat dat weer met JavaScript gedaan dient te worden. Dus dit moet nog even 'opgelost' worden. 
+  Ik heb muziek proberen toe te voegen, maar dat ging nog niet helemaal goed. Ik wilde immers dat de muziek zich enkel afspeelde als je op de radio klikte of erover hoverde, niet standaard op de pagina. Dat vond ik immers afbreuk doen aan het easteregg effect. Dat wil ik dus nog even vragen aan anderen, aangezien ik vermoed dat dat weer met JavaScript gedaan dient te worden. Dus dit moet nog even opgelost worden. 
 
   
   ### Bevinding 4:
-  >afmaken illustratie...
+  Ik merkte ook wel dat ik het vervelend vond dat mijn illustratie nog niet af was, want daardoor kon ik nog minder het geheel voor me zien. Zo zag Pluto er nog vrij zielig uit, waren het tv kastje en de plank niet helemaal recht en waren de planten nog niet echt mooi in beeld gevracht. Tevens belemmerde het soms met de plaatsing van elementen in de code. Ik besloot dus dat hier wat aan gedaan diende te worden. 
 
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Uiteindelijk heb ik mijn illustratie afgemaakt door naar mijn code te kijken. Ik heb de schaduwen geplaatst op de plekken waar Mickey staat, de kast staat en de plank goed onder de radio geplaatst. Zo hoefde ik niet meer in de codering positionering aan te passen, want dit had ik als het ware gedaan in de illustratie. Dit was de makkelijkere manier, aangezien dit minder handelingen nodig had. Bij de radio zou ik dan bijvoorbeeld ook de knoppen en dergelijke moeten verplaatsen. Ik heb in de illustratie wat Mickey details toegevoegd, zoals een boekensteun en Mickey handvaten op de tv kast. Wel heb ik geprobeerd niet teveel detail toe te voegen, aangezien ik wel wilde dat de aandacht naar de juiste elementen zou gaan.
+  
+   <img src="readme-images/24april1.png" width="375px" alt="Website 24 april">
+  <img src="readme-images/24april2.png" width="375px" alt="Website 24 april 2">
   
   
   ### Bevinding 5:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  In de tekstvakken van de afbeeldingen wilde ik relevante tekst zetten die passend was bij die specifieke cartoon. Ik had een aantal sites (zie bronnenlijst) gevonden die de basis vormden voor mijn keuzes in de cartoons. Hier heb ik dan ook grotendeels de informatie vanaf gehaald over de diverse cartoons. Ik merkte zelf wel bij het zoeken naar informatie dat er bij de ene cartoon meer te vertellen was dan bij de ander. 
 
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Zo moest ik bij hele bekende cartoons de tekst echt inkorten, omdat het anders niet meer paste in de tekstvakken. Bij anderen zoals 'Mickey Mouse Works' moest ik juist weer wat tekst erbij schrijven. Zo heb ik zelf nog wat analyses gedaan tussen de diverse tijdperken, zodat ik ook soms nog wat uiterlijke verschillen kon benoemen die niet in de bronnen benoemd waren. Uiteindelijk heeft dit teksten opgeleverd die ongeveer even lang zijn. 
   
   
 </details>
@@ -145,16 +151,15 @@ Mijn startniveau is: blauw
 ## Voortgang/Feedback 3 (week 2: ma en di)
 
 <details>
-  <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
+  <summary>Mijn bevindingen + wijzigingen</summary>
   
   ### Bevinding 1:
-  > radio muziek maken wanneer je over radio gaat/knop inklikt. 
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+  Iets anders wat ik dus niet voor elkaar kreeg in de code was het afspelen van muziek als een knop ingedrukt wordt/ergens overheen gehovert wordt. Ik had immers knoppen aangemaakt die ik daarvoor kon gebruiken, maar dit wilde nog niet helemaal lukken. Ik heb daarbij online de code opgezocht die ik hiervoor zou moeten gebruiken, maar kwam niet helemaal eruit hoe die JavaScript structuur precies in elkaar zat. Ik heb daarom om hulp gevraagd, zodat ik dit wel zou snappen. 
 
   #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Timo Smit heeft meegekeken en me de structuur uitgelegd. Hij heeft daarbij stap voor stap verteld wat ik diende te doen om het werkend te maken. Daarbij heeft hij ook geholpen om ervoor te zorgen dat de knop zowel aan als uit kon en dat de muziek dat dan ook zou doen. Ik heb daarna de verschillende states van de knop aangepast. Ik merkte echter dat de knop niet aan bleef staan als je erop klikte, want dan ging hij weer terug naar de 'normale' versie. Ook dit vond ik niet helemaal de juiste manier. Hier konden anderen me niet mee helpen, dus ben ik naar de docent gegaan die mij hierbij geholpen heeft. Hiervoor is er weer een nieuwe state aangemaakt die laat zien dat de knop en de muziek nog aan staan. 
 
-
+  
 
   ### Bevinding 2:
   > link maken dat je tussen pagina's kunt schakelen.
@@ -227,13 +232,20 @@ Mijn startniveau is: blauw
 ## Bronnenlijst
 
 <details>
-<summary>continu bijhouden terwijl je werkt</summary>
+<summary>Mijn gebruikte bronnen gedurende het vak</summary>
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
 1. Klasgenoten, waarbij voornamelijk: Rowin Schmidt, Sam Landsdaal, Timo Smit, ...
 2. De docent: Sanne....
 3. 
+4.
+5.
+6.
+7.
+8.
+9.
+10. 
   
 
 </details>
