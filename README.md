@@ -156,18 +156,17 @@ Mijn startniveau is: blauw
   ### Bevinding 1:
   Iets anders wat ik dus niet voor elkaar kreeg in de code was het afspelen van muziek als een knop ingedrukt wordt/ergens overheen gehovert wordt. Ik had immers knoppen aangemaakt die ik daarvoor kon gebruiken, maar dit wilde nog niet helemaal lukken. Ik heb daarbij online de code opgezocht die ik hiervoor zou moeten gebruiken, maar kwam niet helemaal eruit hoe die JavaScript structuur precies in elkaar zat. Ik heb daarom om hulp gevraagd, zodat ik dit wel zou snappen. 
 
-  #### oplossing:
+  #### Oplossing:
   Timo Smit heeft meegekeken en me de structuur uitgelegd. Hij heeft daarbij stap voor stap verteld wat ik diende te doen om het werkend te maken. Daarbij heeft hij ook geholpen om ervoor te zorgen dat de knop zowel aan als uit kon en dat de muziek dat dan ook zou doen. Ik heb daarna de verschillende states van de knop aangepast. Ik merkte echter dat de knop niet aan bleef staan als je erop klikte, want dan ging hij weer terug naar de 'normale' versie. Ook dit vond ik niet helemaal de juiste manier. Hier konden anderen me niet mee helpen, dus ben ik naar de docent gegaan die mij hierbij geholpen heeft. Hiervoor is er weer een nieuwe state aangemaakt die laat zien dat de knop en de muziek nog aan staan. 
 
+  <img src="readme-images/MuziekSpeelt.png" width="375px" alt="Muziek Speelt">
   
 
   ### Bevinding 2:
-  > link maken dat je tussen pagina's kunt schakelen.
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
+ In mijn interface wilde ik ook graag linkjes toevoegen waarmee je tussen de twee pagina's kunt wisselen. Daarbij vond ik het zelf mooi om hier dan een soort 'knoppen' van te maken, zodat dit paste bij de look and feel van de rest van de interface. Ik wist niet helemaal meer hoe deze structuur in elkaar zat. 
 
-  #### oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  #### Oplossing:
+  Om dit op te lossen heb ik zelf het internet afgespeurd. Daarbij kon ik veel vinden over linken naar een andere website, maar nog niet meteen over hoe je kon linken in je eigen website. Uiteindelijk na even gezocht te hebben kwam ik op een website uit die uitlegde hoe je naar een ander deel van je website kon linken. Dit kon door middel van een id toevoegen. Dit heb ik dan ook gedaan. Daarna heb ik de knoppen vormgegeven, waarbij dat eerst ook niet helemaal lukte. Mijn kleuren bleven uit, dus zag ik steeds was paars. Uiteindelijk heb ik met inspect gekeken of ik het probleem kon vinden. Dat kon ik in eerste instantie niet, dus heb ik in mijn code gewoon wat dingen aan en uit gezet Uiteindelijk stond er iets dubbel, waardoor hij het niet pakte. 
 
 
   ### Bevinding 3:
