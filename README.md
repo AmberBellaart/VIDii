@@ -191,12 +191,8 @@ Mijn startniveau is: blauw
   Dinsdag 26 april hebben Sophie en ik nog feedback op elkaars werk gegeven. Ze vind het werk er leuk uit zien. De kleuren passen volgens haar goed bij elkaar, het concept van het huis past bij Mickey vanwege het huiselijke gevoel, de tv is leuk en Pluto erin verwerkt hebben vind ze een leuke touch. Een verbeterpunt was dat de radio button niet meer terug geklikt kan worden en het geluid zich niet afspeelt in Github. Ook gaf ze aan dat ik misschien de schaduw bij de Mickey tekstvlakken weg kan laten, omdat dat minder past bij de rest van de vormgeving. Tot slot gaf ze aan dat ik misschien de schaduw onder Mickey weg zou kunnen halen, aangezien die niet erg responsive is. Dit zijn dingen om volgens haar over na te denken.
   
   #### Oplossing:
+  Het probleem met de radio vond ik erg vervelend, aangezien het in mijn html index bestand wel gewoon goed ging. Ik heb de cache geleegd (zoals ik eerder als tip kreeg bij GitHub van Rowin), maar dit hielp nog niet. De docent heeft meegekeken en die heeft twee dingen aangepast. Zo heeft hij in mijn JavaScript de audio niet meer apart gelinkt, maar als het ware gewoon naar de HTML gelinkt. Verder heeft hij nog de empty cache en hard reload gedaan, waardoor het uiteindelijk allemaal werkte. Hier was ik erg blij mee. Verder had ik het weghalen van schaduw bij Mickey al getest, maar dat vond ik er erg gek uitzien als de rest wel de schaduw zou behouden. Ik heb besloten dit dus zo te laten, aangezien ik het heel vlak vond worden zonder schaduwen. De schaduw onder de tekstvlakken had ik eerst niet, maar daardoor vond ik de tekstvlakken erg in de achtergrond opgaan, ipv dat ze ervoor stonden. Ik heb dus expres die schaduw toegevoegd en heb dus besloten dit zo te laten.
   
-  
-  Oplossing van muziek en knop>javascript audio linken uit html ipv apart.
-  harde cache legen en reload zodat alles opnieuw inlaad.
-  
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
 
 </details>
 
