@@ -109,20 +109,19 @@ Mijn startniveau is: blauw
 
   
   ### Bevinding 2:
-  Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
-  >vormgeven van tekst met mickey oortjes...
+  Toen ik eenmaal voor elkaar had dat er nieuwe tekstvakken verschenen als er op de afbeeldingen geklikt werden, besloot ik om de tekstvakken wat op te vrolijken en passender te maken bij Mickey. Dit wilde ik doen door Mickey-oortjes toe te voegen. Ik had hierbij alleen geen idee hoe ik die het beste toe kon voegen weer, aangezien ik bij de tekstvakken ook met JavaScript aan de slag was gegaan.
   
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
-
+  Ik heb uiteindelijk wat advies aan Sam nog gevraagd, waardoor ik de oortjes kon gaan maken. Door middel van een tip van de docent kon ik deze makkelijk achter het tekstvak plaatsen. Het vormgeven van de oortjes en het tekstvak en positioneren hiervan heb ik wel geheel zelf gedaan, aangezien ik deze kennis gewoon in huis had. Hieronder is het begin en het eind te zien van de vormgeving. 
+  
+  <img src="readme-images/MickeyOortjesBegin.png" width="375px" alt="Tekstvak Oortjes Begin">
+  <img src="readme-images/MickeyOortjesEind.png" width="375px" alt="Tekstvak Oortjes Eind">
 
   ### Bevinding 3:
-  Ik vond dat ik wel een los voorwerp met HTML/CSS moest vormgeven, aangezien het vak over coderen gaat. Daarom heb ik besloten om de radio geheel te coderen. Voor de radio wilde ik immers ook iets doen met animeren of een easteregg, dus was dit wel zo verstandig. 
-  
-  >radio maken in css...
+  Ik vond dat ik wel een los voorwerp met HTML/CSS moest vormgeven, aangezien het vak over coderen gaat. Daarom heb ik besloten om de radio geheel te coderen. Voor de radio wilde ik immers ook iets doen met animeren of een easteregg, dus was dit wel zo verstandig. Ik ben daarom de radio gaan coderen. Daarbij heb ik ook een gradient toegepast en knoppen toegevoegd. Deze knoppen kan ik immers dan weer later gebruiken bij de animatie. Ook heb ik met de opgedane kennis over JavaScript muzieknoten in een hover toegevoegd. Dus als je nu over de radio gaat, krijg je die muzieknootjes te zien die ook nog kunnen bewegen. Wel krijg je die enkel bewegend als je over de muzieknoten zelf gaat, dus dat wil ik eigenlijk nog oplossen. Ook wil ik nog iets van muziek toevoegen. 
 
   #### Oplossing:
-  Beschrijving hoe je het hebt hebt opgelost of als het niet gelukt is hoe je het zou oplossen (tekst en afbeeding(en)).
+  Ik heb muziek proberen toe te voegen, maar dat ging nog niet helemaal goed. Ik wilde immers dat de muziek zich enkel afspeelde als je op de radio klikte of erover hoverde, niet standaard op de pagina. Dat vond ik immers afbreuk doen aan het easteregg effect. Dat wil ik dus nog even vragen aan anderen, aangezien ik vermoed dat dat weer met JavaScript gedaan dient te worden. Dus dit moet nog even 'opgelost' worden. 
 
   
   ### Bevinding 4:
@@ -149,7 +148,7 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen (minimaal 5)</summary>
   
   ### Bevinding 1:
-  > radio muziek maken + hover muzieknoten.
+  > radio muziek maken wanneer je over radio gaat/knop inklikt. 
   Omschrijving van wat er nog niet orde was (tekst en afbeeding(en)).
 
   #### oplossing:
