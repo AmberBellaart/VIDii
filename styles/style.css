@@ -84,6 +84,7 @@ body > header > h1 {
   left: 50%;
   transform: translateX(-50%);
   z-index: 999;
+
   font-family: 'minnie', Arial, Helvetica, sans-serif;
   font-size: 2em;
   color: var(--accent-licht);
@@ -95,6 +96,7 @@ body > header > h2 {
   transform: translateX(-50%);
   top: 6.5%;
   z-index: 999;
+
   font-family: minnie;
   font-size: 1em;
 }
@@ -110,13 +112,14 @@ main > ol {
   position:fixed;
   top:0;
   left:0;
-  margin:0;
-  padding: 0;
-  width: 100vw;
-  height: 100vh;
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
+  
   display: flex;
+  width: 100vw;
+  height: 100vh;
+  margin:0;
+  padding: 0;
 }
 
 
@@ -128,13 +131,15 @@ main > ol {
 /**********************/
 main > ol > li {
   position: relative;
+  flex-shrink: 0;
+  scroll-snap-align: center;
+
+  display: flex;
   width: 100%;
   height: 100%;
-  flex-shrink: 0;
+
   background-size: cover;
   background-image: url("../images/Huiskamer1.png");
-  display: flex;
-  scroll-snap-align: center;
 }
 
 
@@ -146,24 +151,29 @@ main > ol > li {
 /*********/
 main > ol > li > section {
   position: absolute;
+  top: 13%;
+  left: 9%;
+
+  width: 9em;
+  height: 5em;
+
   background-color: var(--radio-kleur);
   border-style: solid;
   border-color: var(--radio-kleur);
   border-radius: 15%;
-  width: 9em;
-  height: 5em;
-  top: 13%;
-  left: 9%;
+
   cursor: pointer;
 }
 
 main > ol > li > section > section:first-of-type {
   position: absolute;
-  background-image: radial-gradient(var(--radio-kleur) 2%, var(--accent-donker));
-  width: 4em;
-  height: 4em;
   top: 0.5em;
   left: 0.4em;
+
+  width: 4em;
+  height: 4em;
+
+  background-image: radial-gradient(var(--radio-kleur) 2%, var(--accent-donker));
   border-style: solid;
   border-color: var(--accent-donker);
   border-radius: 70%;
@@ -171,25 +181,28 @@ main > ol > li > section > section:first-of-type {
 
 main > ol > li > section > section:last-of-type {
   position: absolute;
-  background-color: var(--achtergrond-donker);
-  width: 0.9em;
-  height: 1.6em;
-  border-style: solid;
-  border-radius: 20%;
   top: -1.6em;
   right: 1.2em; 
+
+  width: 0.9em;
+  height: 1.6em;
+
+  border-style: solid;
+  border-radius: 20%;
+  background-color: var(--achtergrond-donker);
 }
 
 /*radio buttons*/
 main > ol > li > section > button {
-  background-color: var(--achtergrond-donker);
+  padding:0;
   width: 1.5em;
   height: 1.5em;
+
   border-style: solid;
   border-radius: 70%;
-  border-color: black;
+  border-color: var(--border-donker);
   border-width: 0.1em;
-  padding:0;
+  background-color: var(--achtergrond-donker);
 }
 
 /*radio button 1*/
@@ -279,15 +292,17 @@ main > ol > li > a:link {
   position: absolute;
   right: 2em;
   top: 47%;
+
   width: 2em;
   height: 2em;
+  padding: 0.1em;
+
   background-color: var(--achtergrond-donker);
   border-style: solid;
   border-width: 0.2em;
   border-radius: 60%;
   border-color: var(--border-donker);
   text-align: center;
-  padding: 0.1em;
 }
   
 main > ol > li > a:visited {
@@ -315,6 +330,18 @@ main > ol > li > a:active {
 /*hulp gehad van Sanne bij planken in de kast*/
 main > ol > li:nth-of-type(1) > ol {
   position: absolute;
+  right: 10.5%;
+  bottom: 15%;
+
+  height: 20em;
+  width: 16em;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: .3em;
+  list-style-type: none;
+
   background-color: var(--kast-kleur);
   background-image: linear-gradient(
     transparent 0% calc(33.3% - .15em), 
@@ -323,31 +350,21 @@ main > ol > li:nth-of-type(1) > ol {
     var(--kast-accent-kleur) calc(66.7% - .15em) calc(66.7% + .15em),
     transparent calc(66.7% + .15em) 100%
   );
-  padding: 0;
   border-style: solid;
   border-radius: 5%;
   border-width: 0.3em;
   border-color: var(--kast-accent-kleur);
-  height: 20em;
-  right: 10.5%;
-  bottom: 15%;
-  width: 16em;
-  
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr;
-  gap: .3em;
-  list-style-type: none;
 }
 
 main > ol > li:first-of-type > ol > li {
+  justify-self: center;
+  align-self:end;
+  
   background-color: var(--achtergrond-licht);
   border-style: solid;
   border-color: var(--border-donker);
   border-width: 0.4rem;
 
-  justify-self: center;
-  align-self:end;
   cursor: pointer;
 }
 
@@ -446,10 +463,11 @@ main > ol > li:first-of-type > ol > li:nth-of-type(4) {
 main > ol > li > img {
   position: absolute;
   right: 25%;
-  height: 20em;
-  width: 20em;
   top: 45%;
   z-index: 1;
+
+  height: 20em;
+  width: 20em;
 }
 
 
@@ -460,14 +478,15 @@ main > ol > li > img {
 /* VERSTOPTE TEKSTBLOKKEN */
 /**************************/
 .verstopt2 {
-  display:block;
   position: absolute;
   left: 2%;
   top: 3%;
-  width: 10%;
-  height: 20%;
   z-index: 1;
   transform-style: preserve-3d;
+
+  display:block;
+  width: 10%;
+  height: 20%;
 }
 
 .schilderij1, .schilderij2, .schilderij3, .schilderij4, .kast1, .kast2, .kast3, .kast4 {
@@ -475,35 +494,39 @@ main > ol > li > img {
 }
 
 .verstopt {
-  display: block;
   position: absolute;
+  left: 10%;
+  top: 23%;
+  z-index: 1;
+  transform-style: preserve-3d;
+  
+  width: 30%;
+  height: 60%;
+  padding: 4em;
+  display: block;
+
   background-color: var(--achtergrond-licht);
   font-family: arial;
   border-style: solid;
   border-radius: 60%;
   border-color: var(--border-donker);
   border-width: 0.8em;
-  left: 10%;
-  top: 23%;
-  width: 30%;
-  height: 60%;
-  z-index: 1;
-  transform-style: preserve-3d;
-  padding: 4em;
   font-size: 14.5px;
   text-align: center;
   box-shadow: 0em 0em 0.8em var(--accent-donker);
 }
 
 .oortje1, .oortje2 {
+  transform: translateZ(-1em);
+ 
   width: 14em;
   height: 14em;
+
   background-color: var(--achtergrond-donker);
   border-style: solid;
   border-radius: 70%;
   border-color: black;
   border-width: 0.1em;
-  transform: translateZ(-1em);
   box-shadow: 0em 0em 0.8em var(--accent-donker);
 }
 
@@ -528,13 +551,15 @@ main > ol > li > img {
 /**********************/
 main > ol > li:last-of-type {
   position: relative;
+  scroll-snap-align: center;
+  flex-shrink: 0;
+  
   width: 100%;
   height: 100%;
-  flex-shrink: 0;
+  display: inline-flex;
+  
   background-size: cover;
   background-image: url("../images/Woonkamer2.png");
-  display: inline-flex;
-  scroll-snap-align: center;
 }
 
 
@@ -548,14 +573,16 @@ main > ol > li:last-of-type > a:link {
   position: absolute;
   left: 2em;
   top: 47%;
+
   width: 2em;
   height: 2em;
+  padding-top: 0.2em;
+
   background-color: var(--achtergrond-donker);
   border-style: solid;
   border-width: 0.2em;
   border-radius: 60%;
   border-color: var(--border-donker);
-  padding-top: 0.2em;
 }
   
 main > ol > li > a:visited {
@@ -581,10 +608,12 @@ main > ol > li > a:active {
 /************/
 main > ol > li:last-of-type > video {
   position: absolute;
-  width: 20%;
-  height: 25%;
   left: 12em;
   top: 33.5%;
+
+  width: 20%;
+  height: 25%;
+ 
   border-style: solid;
   border-color: var(--border-donker);
   border-width: 1em;
@@ -602,21 +631,22 @@ main > ol > li:last-of-type > video {
 main > ol > li:last-of-type > ol {
   position: absolute;
   list-style-type: none;
-  background-color: transparent;
-  padding: 0;
-  margin: 0;
   top: 10%;
   right: 4%;
   bottom: 40%;
+
+  padding: 0;
+  margin: 0;
   height: 21em;
   width: 35em;
-
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   row-gap: 0.5em;
   column-gap: 1.4em;
   list-style-type: none;
+
+  background-color: transparent;
 }
 
 main > ol > li:last-of-type > ol > li img {
@@ -628,10 +658,12 @@ main > ol > li:last-of-type > ol > li img {
 
 main > ol > li:last-of-type > ol > li {
   position: absolute;
+
   background-color: var(--achtergrond-licht);
   border-style: solid;
   border-color: var(--border-donker);
   border-width: 0.4rem;
+  
   cursor: pointer;
 }
 
