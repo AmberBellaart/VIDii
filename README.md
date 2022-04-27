@@ -212,13 +212,13 @@ Mijn startniveau is: blauw
   ### Dit ging goed/Heb ik geleerd: 
   Er zijn heel veel dingen die ik bij dit vak geleerd, want ik wist hiervoor nog praktisch niets van code. Ik weet nu hoe ik twee pagina's kan maken dmv ol en li, hoe ik elementen kan vormgeven met CSS, hoe ik een grid kan maken met diverse afmetingen erin, hoe ik met Javascript iets tevoorschijn kan laten komen bij een actie, hoe ik muziek kan laten afspelen dmv een button (JavaScript), hoe ik mijn HTML/CSS/JavaScript goed gestructureerd kan maken, fonts kan inladen en nog veel meer. Ik heb heel diverse dingen geleerd, waarbij ik in het begin dus nog wel eens tegen problemen aanliep. Uiteindelijk merkte ik wel heel erg dat des te meer ik bezig was met coderen, des te zelfstandiger en makkelijker het ging. Vooral de JavaScript dingen kon ik nog niet echt, omdat ik hier niets over geleerd had. Maar ook dit heb ik uiteindelijk voor een deel zelf kunnen toepassen. Uiteindelijk ben ik dus erg blij met het resultaat dat ik neergezet heb en de groei die ik zelf met coderen doorgemaakt heb. Hieronder staat een stuk JavaScript waar ik veel aan gehad heb, want dit heeft de website echt interactief gemaakt. Hier heb ik dus veel aan gehad.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/JavaScript.png" width="375px" alt="Javascript">
 
 
   ### Dit was lastig/Is niet gelukt:
   Zoals ik al zei waren er eigenlijk best wel wat dingen lastig. In het begin was het vooral lastig om de structuur van de website zo te maken dat er twee pagina's naast elkaar kwamen te staan. Hierbij heb ik dan ook hulp gehad. Verder heb ik ook nog wel tussendoor met wat lastige dingen hulp gehad, zoals met de JavaScript dingen. Uiteindelijk ben ik wel heel blij dat ik tegen dat soort dingen allemaal aangelopen ben, omdat je daar wel het meeste van leert. Ook de kleine dingetjes als een spatie teveel, zie je nu veel sneller, omdat het zo vaak 'fout' is gegaan. Wat ik wel jammer vind, is dat de website niet helemaal responsive is. Dus als hij op een andere schermgrootte getoond word, vind ik wel dat het er iets minder uit ziet. Dit is nog wel iets wat ik wil leren in het vervolg. De lastige structuur aan het begin snap ik nu en is hieronder te zien.
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/Structuur.png" width="375px" alt="Structuur coderen">
 </details>
 
 
