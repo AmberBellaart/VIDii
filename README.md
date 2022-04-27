@@ -231,16 +231,32 @@ Mijn startniveau is: blauw
 
 Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-1. Klasgenoten, waarbij voornamelijk: Rowin Schmidt, Sam Landsdaal, Timo Smit, ...
-2. De docent: Sanne....
-3. 
-4.
-5.
-6.
-7.
-8.
-9.
-10. 
+1. Klasgenoten, waarbij voornamelijk: Rowin Schmidt, Sam Landsdaal en Timo Smit.
+2. De docent
+  
+Informationele bronnen  
+3. De powerpoints op dlo van Interface & Interactie
+4. https://css-tricks.com/a-complete-guide-to-links-and-buttons/ 
+5. https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML 
+6. https://www.w3schools.com/jsref/event_onmouseover.asp 
+  
+Linkjes naar afbeeldingen, fonts, video, etc.  
+7. https://mubi.com/films/plane-crazy 
+8. https://www.jiangekj.xyz/products.aspx?cname=conductor%2bmickey&cid=4
+9. https://www.intanibase.com/iad_entries/screenshots.aspx?shortID=541 
+10. https://www.youtube.com/watch?v=BBgghnQF6E4
+11. https://sco.wikipedia.org/wiki/File:Mickey_Mouse.png 
+12. https://www.moviemeter.nl/film/1131091 
+13. https://www.mickeynews.com/talkingdisney/fantasia-walts-masterpiece/
+14. https://hilaritybydefault.com/2016/12/20/default-disney-mickeys-christmas-carol-1983/ 
+15. https://www.tvtime.com/es/show/70958
+16. https://www.imdb.com/title/tt0784896/
+17. https://www.youtube.com/watch?v=w-W3G1Mi4qc 
+18. https://www.dafont.com/mickey.font 
+19. https://www.toptal.com/designers/htmlarrows/symbols/ 
+  
+Converter
+20. https://anyconv.com/ttf-to-woff-converter/ 
   
 
 </details>
