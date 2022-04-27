@@ -33,9 +33,9 @@ Mijn startniveau is: blauw
 
   ### Je ambitie: 
   Aan deze technieken/punten wil ik werken:
-  - Punt 1: ik wil sowiezo leren hoe ik überhaupt werkende en overzichtelijke code maak. Ik heb namelijk nog nooit zelf code hoeven schrijven, dus dit is allemaal nieuw. Ik zou dan ook erg blij zijn als alles allemaal werkend en duidelijk is uiteindelijk.
-  - Punt 2: ik wil leren hoe ik met diverse elementen, bijv. diverse afbeeldingen en headers, een eindproduct kan maken dat goed in elkaar zit. Nu heb ik bij de twee oefenlesjes nog vooral geoefende met 'weinig' elementen, maar bij deze opdracht zullen er meer dingen samenvallen en zal dat dus meer van mij vragen.
-  - Punt 3: ik wil leren hoe ik motivatie uit de overwinningen kan halen bij het coderen, zodat ik die kan gebruiken om met de tegenslagen om te gaan. Ik heb immers nu al in die 2 lesjes gemerkt dat er meer tegenslagen zullen zijn als beginner dan overwinningen (spaties teveel, komma's verkeerd, puntkomma vergeten, etc.). Dit vraagt best wel wat van je motivatie en doorzettingsvermogen. Ik ben wel een doorzetter, maar vind het wel lastig soms om met tegenslagen om te gaan. Dus dit vak helpt me hopelijk ook een beetje op persoonlijk niveau :). 
+  - Punt 1: Ik wil sowiezo leren hoe ik überhaupt werkende en overzichtelijke code maak. Ik heb namelijk nog nooit zelf code hoeven schrijven, dus dit is allemaal nieuw. Ik zou dan ook erg blij zijn als alles allemaal werkend en duidelijk is uiteindelijk.
+  - Punt 2: Ik wil leren hoe ik met diverse elementen, bijv. diverse afbeeldingen en headers, een eindproduct kan maken dat goed in elkaar zit. Nu heb ik bij de twee oefenlesjes nog vooral geoefende met 'weinig' elementen, maar bij deze opdracht zullen er meer dingen samenvallen en zal dat dus meer van mij vragen.
+  - Punt 3: Ik wil leren hoe ik motivatie uit de overwinningen kan halen bij het coderen, zodat ik die kan gebruiken om met de tegenslagen om te gaan. Ik heb immers nu al in die 2 lesjes gemerkt dat er meer tegenslagen zullen zijn als beginner dan overwinningen (spaties teveel, komma's verkeerd, puntkomma vergeten, etc.). Dit vraagt best wel wat van je motivatie en doorzettingsvermogen. Ik ben wel een doorzetter, maar vind het wel lastig soms om met tegenslagen om te gaan. Dus dit vak helpt me hopelijk ook een beetje op persoonlijk niveau :). 
  
 </details>
 
@@ -48,7 +48,7 @@ Mijn startniveau is: blauw
   <summary>Mijn bevindingen + wijzigingen</summary>
 
   ### Bevinding 1:
-  De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen. Ik ben toen dan ook geswitcht van onderwerp en heb gekozen voor Mickey Mouse. 
+  De eerste bevinding die ik eigenlijk al vrij snel had, was dat mijn initiele gekozen onderwerp Mario door heel veel anderen ook was gekozen. Ik vond het niet zo leuk om voor een onderwerp te gaan dat al zovaak gekozen was en merkte dat mijn ideeën bij Mario veel leken op die van anderen. Ik ben toen dan ook geswitcht van onderwerp en heb gekozen voor Mickey Mouse. Mickey Mouse is voor mij ook persoonlijker, omdat ik opgegroeid ben in een huishouden dat Disney erg leuk vind. 
 
   #### Oplossing:
  Hierbij ben ik gaan schetsen om te kijken waar ik mee kon komen. Uiteindelijk heb ik gekozen voor het idee dat Mickey je door zijn huis als het ware meeneemt dat vol met herinneringen hangt. Dit vind ik een mooie manier, aangezien Mickey al lang meegaat en hij ook een programma had wat 'Mickey Mouse Clubhosue' heette. Hierbij was je ook als het ware in zijn huis waarbij er veel elementen zijn in het interieur die aan Mickey doen denken. Dat idee wilde ik ook creeren maar dan met zijn geschiedenis. Het concept diende ik nog wel verder uit te werken (welke jaartallen, eastereggs, vormgeving van het huis, etc.).
@@ -124,14 +124,14 @@ Mijn startniveau is: blauw
   <img src="readme-images/RadioMuziek.png" width="375px" alt="Radio Muziek">
 
   #### Oplossing:
-  Ik heb muziek proberen toe te voegen, maar dat ging nog niet helemaal goed. Ik wilde immers dat de muziek zich enkel afspeelde als je op de radio klikte of erover hoverde, niet standaard op de pagina. Dat vond ik immers afbreuk doen aan het easteregg effect. Dat wil ik dus nog even vragen aan anderen, aangezien ik vermoed dat dat weer met JavaScript gedaan dient te worden. Dus dit moet nog even opgelost worden. 
+  Ik heb muziek proberen toe te voegen, maar dat ging nog niet helemaal goed. Ik wilde immers dat de muziek zich enkel afspeelde als je op de radio klikte of erover hoverde, niet standaard op de pagina. Dat vond ik immers afbreuk doen aan het easteregg effect. Online kon ik de oplossing hiervoor ng niet vinden. Dat wil ik dus nog even vragen aan anderen, aangezien ik vermoed dat dat weer met JavaScript gedaan dient te worden. Dus dit moet nog even opgelost worden. 
 
   
   ### Bevinding 4:
   Ik merkte ook wel dat ik het vervelend vond dat mijn illustratie nog niet af was, want daardoor kon ik nog minder het geheel voor me zien. Zo zag Pluto er nog vrij zielig uit, waren het tv kastje en de plank niet helemaal recht en waren de planten nog niet echt mooi in beeld gevracht. Tevens belemmerde het soms met de plaatsing van elementen in de code. Ik besloot dus dat hier wat aan gedaan diende te worden. 
 
   #### Oplossing:
-  Uiteindelijk heb ik mijn illustratie afgemaakt door naar mijn code te kijken. Ik heb de schaduwen geplaatst op de plekken waar Mickey staat, de kast staat en de plank goed onder de radio geplaatst. Zo hoefde ik niet meer in de codering positionering aan te passen, want dit had ik als het ware gedaan in de illustratie. Dit was de makkelijkere manier, aangezien dit minder handelingen nodig had. Bij de radio zou ik dan bijvoorbeeld ook de knoppen en dergelijke moeten verplaatsen. Ik heb in de illustratie wat Mickey details toegevoegd, zoals een boekensteun en Mickey handvaten op de tv kast. Wel heb ik geprobeerd niet teveel detail toe te voegen, aangezien ik wel wilde dat de aandacht naar de juiste elementen zou gaan.
+  Uiteindelijk heb ik mijn illustratie afgemaakt. Ik heb hierbij mijn code als uitgangspunt genomen. Ik heb de schaduwen geplaatst op de plekken waar Mickey staat, de kast staat en de plank goed onder de radio geplaatst. Zo hoefde ik niet meer in de codering positionering aan te passen, want dit had ik als het ware gedaan in de illustratie. Dit was de makkelijkere manier, aangezien dit minder handelingen nodig had. Bij de radio zou ik dan bijvoorbeeld ook de knoppen en dergelijke moeten verplaatsen. Ik heb in de illustratie wat Mickey details toegevoegd, zoals een boekensteun en Mickey handvaten op de tv kast. Wel heb ik geprobeerd niet teveel detail toe te voegen, aangezien ik wel wilde dat de aandacht naar de juiste elementen zou gaan.
   
    <img src="readme-images/24april1.png" width="375px" alt="Website 24 april">
   <img src="readme-images/24april2.png" width="375px" alt="Website 24 april 2">
@@ -166,32 +166,32 @@ Mijn startniveau is: blauw
  In mijn interface wilde ik ook graag linkjes toevoegen waarmee je tussen de twee pagina's kunt wisselen. Daarbij vond ik het zelf mooi om hier dan een soort 'knoppen' van te maken, zodat dit paste bij de look and feel van de rest van de interface. Ik wist niet helemaal meer hoe deze structuur in elkaar zat. 
 
   #### Oplossing:
-  Om dit op te lossen heb ik zelf het internet afgespeurd. Daarbij kon ik veel vinden over linken naar een andere website, maar nog niet meteen over hoe je kon linken in je eigen website. Uiteindelijk na even gezocht te hebben kwam ik op een website uit die uitlegde hoe je naar een ander deel van je website kon linken. Dit kon door middel van een id toevoegen. Dit heb ik dan ook gedaan. Daarna heb ik de knoppen vormgegeven, waarbij dat eerst ook niet helemaal lukte. Mijn kleuren bleven uit, dus zag ik steeds was paars. Uiteindelijk heb ik met inspect gekeken of ik het probleem kon vinden. Dat kon ik in eerste instantie niet, dus heb ik in mijn code gewoon wat dingen aan en uit gezet Uiteindelijk stond er iets dubbel, waardoor hij het niet pakte. 
+  Om dit op te lossen heb ik zelf het internet afgespeurd. Daarbij kon ik veel vinden over linken naar een andere website, maar nog niet meteen over hoe je kon linken in je eigen website. Uiteindelijk na even gezocht te hebben kwam ik op een website uit die uitlegde hoe je naar een ander deel van je website kon linken. Dit kon door middel van een id toevoegen. Dit heb ik dan ook gedaan. Daarna heb ik de knoppen vormgegeven, waarbij dat eerst ook niet helemaal lukte. Mijn kleuren bleven uit, dus zag ik steeds alles in het paars. Uiteindelijk heb ik met inspect gekeken of ik het probleem kon vinden. Dat kon ik in eerste instantie niet, dus heb ik in mijn code wat dingen aan en uit gezet. Uiteindelijk stond er iets dubbel, waardoor hij het niet pakte. 
 
 
   ### Bevinding 3:
-  Maandags liep ik tegen problemen aan met mijn code en GitHub. Zo merkte ik dat mijn afbeeldingen in GitHub niet wilden inladen. Ik zah hierbij het probleem niet echt, aangezien de bestandsnamen precies overeenkwamen. Uiteindelijk hoorde ik van een klasgenoot dat het lag aan het feit dat in mijn bestandsnamen spaties zaten. Ik had niet opgeslagen dat dit niet mocht, dus moest daardoor alle namen veranderen. Wat betreft mijn code bleek dat ik camelCase nog niet goed had toegepast
+  Maandags liep ik tegen problemen aan met mijn code en GitHub. Zo merkte ik dat mijn afbeeldingen in GitHub niet wilden inladen. Ik zah hierbij het probleem niet echt, aangezien de bestandsnamen precies overeenkwamen. Uiteindelijk hoorde ik van een klasgenoot (Rowin) dat het lag aan het feit dat in mijn bestandsnamen spaties zaten. Ik had niet onthouden dat dit niet mocht, dus moest daardoor alle namen veranderen. Wat betreft mijn code bleek dat ik camelCase nog niet goed had toegepast
   
   #### Oplossing:
-  Om het GitHub probleem op te lossen heb ik dus alle bestandsnamen van de afbeeldingen aangepast, zodat deze geen spaties meer bevatten. Ook kreeg ik mbt Github de tip van Rowin Schmidt dat het verstandig is om je cache regelmatig te legen als het niet wil werken. Dit kan soms tegenwerken wanneer je iets werkend wil krijgen, want hierdoor kan je een vertekend beeld krijgen van hoe alles werkt. Later heb ik deze tip ook nog van de docent gekregen. Ook de camelCase heb ik uiteindelijk nog overal in mijn werk toegevoegd, zodat dit consistent gebeurd is.
+  Om het GitHub probleem op te lossen heb ik dus alle bestandsnamen van de afbeeldingen aangepast, zodat deze geen spaties meer bevatten. Ook kreeg ik mbt Github de tip van Rowin dat het verstandig is om je cache regelmatig te legen als het niet wil werken. Dit kan soms tegenwerken wanneer je iets werkend wil krijgen, want hierdoor kan je een vertekend beeld krijgen van hoe alles werkt. Later heb ik deze tip ook nog van de docent gekregen. Ook de camelCase heb ik uiteindelijk nog overal in mijn werk toegevoegd, zodat dit consistent gebeurd is.
   
   <img src="readme-images/camelCase.png" width="375px" alt="camelCase">
   
   ### Bevinding 4:
-  Maandag 25 april heb ik nog feedback van Timo gehad aan de hand van de checklist die hieronder te zien is. De belangrijkste verbeterpunten daarbij waren: het meer responsive maken van de website (bijv schaduwen van Mickey en kast apart invoegen), de diverse states van knoppen en links maken, headings van secties in H2's veranderen (dus maar 1 H1 op de website) en de HTML/CSS/JS in orde maken met commentaren, structuur, naamgevingen, custom properties en dergelijke zaken.
+  Maandag 25 april heb ik nog feedback van Timo gehad aan de hand van de checklist die hieronder te zien is. De belangrijkste verbeterpunten daarbij waren: het meer responsive maken van de website (bijv schaduwen van Mickey en kast apart invoegen), de diverse states van knoppen en links maken (die had ik toen nog niet), headings van secties in H2's veranderen (dus maar 1 H1 op de website) en de HTML/CSS/JS in orde maken met commentaren, structuur, naamgevingen, custom properties en dergelijke zaken.
   
   <img src="readme-images/Feedback1.jpeg" width="375px" alt="Feedback 1">
   <img src="readme-images/Feedback2.jpeg" width="375px" alt="Feedback 2">
   
   #### Oplossing:
-  Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. Voor een volgende keer zou ik dan veel meer elementen afzonderlijk met CSS moeten maken, wil ik dat alles goed responsive is. Voor nu was dat binnen de tijd en met mijn kennis nog niet heel haalbaar. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdags gedaan, aangezien ik dit als allerlaatste wilde doen.
+  Het eerste verbeterpunt heb ik proberen op te lossen door de schaduw van Mickey en de kast apart in te voegen. Deze heb ik toen op de plek gezet waar de schaduw eerst in de illustratie stond. De schaduw verplaatste zich helaas heel gek wanneer de schermgrootte aangepast werd, dus het loste mijn 'responsive' probleem niet echt op. Daarom heb ik besloten om de schaduw in de illustratie te laten, aangezien de schaduw hierbij nog het meeste 'klopte'. Voor een volgende keer zou ik dan veel meer elementen afzonderlijk met CSS moeten maken, wil ik dat alles goed responsive is. Voor nu was dat binnen de tijd en met mijn kennis nog niet haalbaar. De diverse states heb ik diezelfde dag nog aangepast, waarbij ik zelfs wat extra's met behulp van Sanne heb toegevoegd aan de radio (de playing after state). De opmerking over de H1's die H2's moesten worden heb ik voorgelegd bij Sanne, waaruit bleek dat het in principe gewoon goed staat met de H1's. Dit heb ik daarom zo gelaten. Het verbeteren van mijn HTML/CSS/JS heb ik dinsdag en woensdag gedaan, aangezien ik dit als allerlaatste wilde doen.
   
   
   ### Bevinding 5:
   Dinsdag 26 april hebben Sophie en ik nog feedback op elkaars werk gegeven. Ze vind het werk er leuk uit zien. De kleuren passen volgens haar goed bij elkaar, het concept van het huis past bij Mickey vanwege het huiselijke gevoel, de tv is leuk en Pluto erin verwerkt hebben vind ze een leuke touch. Een verbeterpunt was dat de radio button niet meer terug geklikt kan worden en het geluid zich niet afspeelt in Github. Ook gaf ze aan dat ik misschien de schaduw bij de Mickey tekstvlakken weg kan laten, omdat dat minder past bij de rest van de vormgeving. Tot slot gaf ze aan dat ik misschien de schaduw onder Mickey weg zou kunnen halen, aangezien die niet erg responsive is. Dit zijn dingen om volgens haar over na te denken.
   
   #### Oplossing:
-  Het probleem met de radio vond ik erg vervelend, aangezien het in mijn html index bestand wel gewoon goed ging. Ik heb de cache geleegd (zoals ik eerder als tip kreeg bij GitHub van Rowin), maar dit hielp nog niet. De docent heeft meegekeken en die heeft twee dingen aangepast. Zo heeft hij in mijn JavaScript de audio niet meer apart gelinkt, maar als het ware gewoon naar de HTML gelinkt. Verder heeft hij nog de empty cache en hard reload gedaan, waardoor het uiteindelijk allemaal werkte. Hier was ik erg blij mee. Verder had ik het weghalen van schaduw bij Mickey al getest, maar dat vond ik er erg gek uitzien als de rest wel de schaduw zou behouden. Ik heb besloten dit dus zo te laten, aangezien ik het heel vlak vond worden zonder schaduwen. De schaduw onder de tekstvlakken had ik eerst niet, maar daardoor vond ik de tekstvlakken erg in de achtergrond opgaan, ipv dat ze ervoor stonden. Ik heb dus expres die schaduw toegevoegd en heb dus besloten dit zo te laten.
+  Het probleem met de radio vond ik erg vervelend, aangezien het in mijn html index bestand wel gewoon goed ging. Ik heb de cache geleegd (zoals ik eerder als tip kreeg bij GitHub van Rowin), maar dit hielp nog niet. De docent heeft meegekeken en die heeft twee dingen aangepast. Zo heeft hij in mijn JavaScript de audio niet meer apart gelinkt, maar als het ware gewoon naar de HTML gelinkt. Verder heeft hij nog de empty cache en hard reload gedaan, waardoor het uiteindelijk allemaal werkte. Hier was ik erg blij mee. Verder had ik het weghalen van schaduw bij Mickey al getest, maar dat vond ik er erg gek uitzien als de rest wel de schaduw zou behouden. Ik heb besloten dit zo te laten, aangezien ik het heel vlak vond worden zonder schaduwen. De schaduw onder de tekstvlakken had ik eerst niet, maar daardoor vond ik de tekstvlakken erg in de achtergrond opgaan, ipv dat ze ervoor stonden. Ik heb dus expres die schaduw toegevoegd en heb besloten dit zo te laten.
   
 
 </details>
@@ -234,7 +234,7 @@ Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
   1. Klasgenoten, waarbij voornamelijk: Rowin Schmidt, Sam Landsdaal en Timo Smit.
   2. De docent
   
-Informationele bronnen  
+Informationele bronnen coderen
   3. De powerpoints op dlo van Interface & Interactie
   4. https://css-tricks.com/a-complete-guide-to-links-and-buttons/ 
   5. https://www.tutorialspoint.com/How-to-use-an-image-as-a-link-in-HTML 
@@ -257,6 +257,13 @@ Linkjes naar afbeeldingen, fonts, video, etc.
   
 Converter
   20. https://anyconv.com/ttf-to-woff-converter/ 
+  
+Teksten bronnen
+  21. https://www.coolinfographics.nl/evolutie-mickey-mouse/
+  22. https://www.waltdisney.org/blog/evolution-mickey-mouse
+  23. https://www.spokesman.com/stories/2020/nov/18/mouse-roared-evolution-mickey-mouse/
+  24. https://disney.fandom.com/wiki/Mickey_Mouse_Through_the_Years
+  25. https://offstagewdw.com/the-evolution-of-mickey-mouse/
   
 
 </details>
